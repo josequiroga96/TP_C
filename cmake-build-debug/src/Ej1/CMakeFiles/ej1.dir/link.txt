@@ -1,2 +1,2 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libej1.a  CMakeFiles/ej1.dir/EJ1Test.c.o
+/Library/Developer/CommandLineTools/usr/bin/ar qc libej1.a  CMakeFiles/ej1.dir/EJ1Test.c.o CMakeFiles/ej1.dir/HouseholdAppliance.c.o CMakeFiles/ej1.dir/Catalogue.c.o
 /Library/Developer/CommandLineTools/usr/bin/ranlib libej1.a

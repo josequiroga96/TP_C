@@ -81,17 +81,69 @@ src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o.provides: src/Ej1/CMakeFiles/ej1.dir/EJ1T
 src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o.provides.build: src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o
 
 
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o: src/Ej1/CMakeFiles/ej1.dir/flags.make
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o: ../src/Ej1/HouseholdAppliance.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej1.dir/HouseholdAppliance.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.c
+
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej1.dir/HouseholdAppliance.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.c > CMakeFiles/ej1.dir/HouseholdAppliance.c.i
+
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej1.dir/HouseholdAppliance.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.c -o CMakeFiles/ej1.dir/HouseholdAppliance.c.s
+
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.requires:
+
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.requires
+
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.provides: src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.requires
+	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.provides.build
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.provides
+
+src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.provides.build: src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o
+
+
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o: src/Ej1/CMakeFiles/ej1.dir/flags.make
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o: ../src/Ej1/Catalogue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej1.dir/Catalogue.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.c
+
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej1.dir/Catalogue.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.c > CMakeFiles/ej1.dir/Catalogue.c.i
+
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej1.dir/Catalogue.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.c -o CMakeFiles/ej1.dir/Catalogue.c.s
+
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.requires:
+
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.requires
+
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.provides: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.requires
+	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.provides.build
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.provides
+
+src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.provides.build: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o
+
+
 # Object files for target ej1
 ej1_OBJECTS = \
-"CMakeFiles/ej1.dir/EJ1Test.c.o"
+"CMakeFiles/ej1.dir/EJ1Test.c.o" \
+"CMakeFiles/ej1.dir/HouseholdAppliance.c.o" \
+"CMakeFiles/ej1.dir/Catalogue.c.o"
 
 # External object files for target ej1
 ej1_EXTERNAL_OBJECTS =
 
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o
+src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o
+src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/build.make
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libej1.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C static library libej1.a"
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && $(CMAKE_COMMAND) -P CMakeFiles/ej1.dir/cmake_clean_target.cmake
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ej1.dir/link.txt --verbose=$(VERBOSE)
 
@@ -101,6 +153,8 @@ src/Ej1/CMakeFiles/ej1.dir/build: src/Ej1/libej1.a
 .PHONY : src/Ej1/CMakeFiles/ej1.dir/build
 
 src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o.requires
+src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.requires
+src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.requires
 
 .PHONY : src/Ej1/CMakeFiles/ej1.dir/requires
 

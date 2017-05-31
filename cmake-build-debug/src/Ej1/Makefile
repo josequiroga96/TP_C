@@ -125,6 +125,33 @@ ej1/fast:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/build
 .PHONY : ej1/fast
 
+Catalogue.o: Catalogue.c.o
+
+.PHONY : Catalogue.o
+
+# target to build an object file
+Catalogue.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o
+.PHONY : Catalogue.c.o
+
+Catalogue.i: Catalogue.c.i
+
+.PHONY : Catalogue.i
+
+# target to preprocess a source file
+Catalogue.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.i
+.PHONY : Catalogue.c.i
+
+Catalogue.s: Catalogue.c.s
+
+.PHONY : Catalogue.s
+
+# target to generate assembly for a file
+Catalogue.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.s
+.PHONY : Catalogue.c.s
+
 EJ1Test.o: EJ1Test.c.o
 
 .PHONY : EJ1Test.o
@@ -152,6 +179,33 @@ EJ1Test.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.s
 .PHONY : EJ1Test.c.s
 
+HouseholdAppliance.o: HouseholdAppliance.c.o
+
+.PHONY : HouseholdAppliance.o
+
+# target to build an object file
+HouseholdAppliance.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o
+.PHONY : HouseholdAppliance.c.o
+
+HouseholdAppliance.i: HouseholdAppliance.c.i
+
+.PHONY : HouseholdAppliance.i
+
+# target to preprocess a source file
+HouseholdAppliance.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.i
+.PHONY : HouseholdAppliance.c.i
+
+HouseholdAppliance.s: HouseholdAppliance.c.s
+
+.PHONY : HouseholdAppliance.s
+
+# target to generate assembly for a file
+HouseholdAppliance.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.s
+.PHONY : HouseholdAppliance.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -161,9 +215,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ej1"
+	@echo "... Catalogue.o"
+	@echo "... Catalogue.i"
+	@echo "... Catalogue.s"
 	@echo "... EJ1Test.o"
 	@echo "... EJ1Test.i"
 	@echo "... EJ1Test.s"
+	@echo "... HouseholdAppliance.o"
+	@echo "... HouseholdAppliance.i"
+	@echo "... HouseholdAppliance.s"
 .PHONY : help
 
 

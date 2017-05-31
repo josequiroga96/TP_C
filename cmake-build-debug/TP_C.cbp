@@ -290,7 +290,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.h">
+			<Option target="ej1"/>
+		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/EJ1Test.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.h">
 			<Option target="ej1"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej2/EJ2Test.c">

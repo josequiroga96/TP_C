@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ej1/EJ1Test.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
