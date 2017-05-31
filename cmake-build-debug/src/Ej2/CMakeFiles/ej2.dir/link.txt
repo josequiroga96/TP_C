@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libej2.a  CMakeFiles/ej2.dir/EJ2Test.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libej2.a

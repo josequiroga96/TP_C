@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exe.dir/main.c.o  -o exe Ej1/libej1.a Ej2/libej2.a Ej3/libej3.a Ej4/libej4.a Ej5/libej5.a 
