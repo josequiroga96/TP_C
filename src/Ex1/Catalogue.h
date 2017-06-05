@@ -18,8 +18,8 @@ struct catalogue{
 
 Catalogue* createCatalogue(int id, char* name, int discount, int capacity);
 
-int addProduct(Catalogue* catalogue, HouseholdAppliance* hA);
-void removeProduct(Catalogue* catalogue, char* name, char* model);
+int add_Product(Catalogue* catalogue, HouseholdAppliance* hA);
+void remove_Product(Catalogue* catalogue, char* name, char* model);
 Catalogue* setDiscount(Catalogue* catalogue, int newDiscount);
 
 void freeCatalogue(Catalogue* catalogue);

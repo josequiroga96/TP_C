@@ -23,7 +23,7 @@ static void growProduct(Catalogue* catalogue){
     catalogue->hAListCapacity=capacity;
 }
 
-int addProduct(Catalogue* catalogue, HouseholdAppliance* hA){
+int add_Product(Catalogue* catalogue, HouseholdAppliance* hA){
     if(catalogue->hAListCapacity==catalogue->hAListAmount)
         growProduct(catalogue);
     catalogue->hAList[catalogue->hAListAmount]=hA;
@@ -31,7 +31,7 @@ int addProduct(Catalogue* catalogue, HouseholdAppliance* hA){
     return 1;
 }
 
-void removeProduct(Catalogue* catalogue, char* name, char* model){
+void remove_Product(Catalogue* catalogue, char* name, char* model){
     for(int i = 0; i < catalogue->hAListAmount; i++){
         if((catalogue->hAList[i]->name == name) && (catalogue->hAList[i]->model == model) ){
             freeHouseholdAppliance(catalogue->hAList[i]);

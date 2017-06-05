@@ -90,11 +90,6 @@ exe_EXTERNAL_OBJECTS =
 
 src/exe: src/CMakeFiles/exe.dir/main.c.o
 src/exe: src/CMakeFiles/exe.dir/build.make
-src/exe: src/Ej1/libej1.a
-src/exe: src/Ej2/libej2.a
-src/exe: src/Ej3/libej3.a
-src/exe: src/Ej4/libej4.a
-src/exe: src/Ej5/libej5.a
 src/exe: src/CMakeFiles/exe.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable exe"
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/exe.dir/link.txt --verbose=$(VERBOSE)

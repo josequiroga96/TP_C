@@ -206,6 +206,60 @@ HouseholdAppliance.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.s
 .PHONY : HouseholdAppliance.c.s
 
+Manufacturer.o: Manufacturer.c.o
+
+.PHONY : Manufacturer.o
+
+# target to build an object file
+Manufacturer.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o
+.PHONY : Manufacturer.c.o
+
+Manufacturer.i: Manufacturer.c.i
+
+.PHONY : Manufacturer.i
+
+# target to preprocess a source file
+Manufacturer.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.i
+.PHONY : Manufacturer.c.i
+
+Manufacturer.s: Manufacturer.c.s
+
+.PHONY : Manufacturer.s
+
+# target to generate assembly for a file
+Manufacturer.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.s
+.PHONY : Manufacturer.c.s
+
+Provider.o: Provider.c.o
+
+.PHONY : Provider.o
+
+# target to build an object file
+Provider.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Provider.c.o
+.PHONY : Provider.c.o
+
+Provider.i: Provider.c.i
+
+.PHONY : Provider.i
+
+# target to preprocess a source file
+Provider.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Provider.c.i
+.PHONY : Provider.c.i
+
+Provider.s: Provider.c.s
+
+.PHONY : Provider.s
+
+# target to generate assembly for a file
+Provider.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Provider.c.s
+.PHONY : Provider.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -224,6 +278,12 @@ help:
 	@echo "... HouseholdAppliance.o"
 	@echo "... HouseholdAppliance.i"
 	@echo "... HouseholdAppliance.s"
+	@echo "... Manufacturer.o"
+	@echo "... Manufacturer.i"
+	@echo "... Manufacturer.s"
+	@echo "... Provider.o"
+	@echo "... Provider.i"
+	@echo "... Provider.s"
 .PHONY : help
 
 

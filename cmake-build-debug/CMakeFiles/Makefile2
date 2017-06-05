@@ -64,30 +64,30 @@ CMAKE_BINARY_DIR = /Users/JoseRojas/Desktop/TP_C/cmake-build-debug
 
 # Convenience name for "all" pass in the directory.
 src/all: src/CMakeFiles/exe.dir/all
-src/all: src/Ej1/all
-src/all: src/Ej2/all
-src/all: src/Ej3/all
-src/all: src/Ej4/all
-src/all: src/Ej5/all
+src/all: src/Ex1/all
+src/all: src/Ex2/all
+src/all: src/Ex3/all
+src/all: src/Ex4/all
+src/all: src/Ex5/all
 
 .PHONY : src/all
 
 # Convenience name for "clean" pass in the directory.
 src/clean: src/CMakeFiles/exe.dir/clean
-src/clean: src/Ej1/clean
-src/clean: src/Ej2/clean
-src/clean: src/Ej3/clean
-src/clean: src/Ej4/clean
-src/clean: src/Ej5/clean
+src/clean: src/Ex1/clean
+src/clean: src/Ex2/clean
+src/clean: src/Ex3/clean
+src/clean: src/Ex4/clean
+src/clean: src/Ex5/clean
 
 .PHONY : src/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/preinstall: src/Ej1/preinstall
-src/preinstall: src/Ej2/preinstall
-src/preinstall: src/Ej3/preinstall
-src/preinstall: src/Ej4/preinstall
-src/preinstall: src/Ej5/preinstall
+src/preinstall: src/Ex1/preinstall
+src/preinstall: src/Ex2/preinstall
+src/preinstall: src/Ex3/preinstall
+src/preinstall: src/Ex4/preinstall
+src/preinstall: src/Ex5/preinstall
 
 .PHONY : src/preinstall
 
@@ -95,14 +95,10 @@ src/preinstall: src/Ej5/preinstall
 # Target rules for target src/CMakeFiles/exe.dir
 
 # All Build rule for target.
-src/CMakeFiles/exe.dir/all: src/Ej1/CMakeFiles/ej1.dir/all
-src/CMakeFiles/exe.dir/all: src/Ej2/CMakeFiles/ej2.dir/all
-src/CMakeFiles/exe.dir/all: src/Ej3/CMakeFiles/ej3.dir/all
-src/CMakeFiles/exe.dir/all: src/Ej4/CMakeFiles/ej4.dir/all
-src/CMakeFiles/exe.dir/all: src/Ej5/CMakeFiles/ej5.dir/all
+src/CMakeFiles/exe.dir/all:
 	$(MAKE) -f src/CMakeFiles/exe.dir/build.make src/CMakeFiles/exe.dir/depend
 	$(MAKE) -f src/CMakeFiles/exe.dir/build.make src/CMakeFiles/exe.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target exe"
 .PHONY : src/CMakeFiles/exe.dir/all
 
 # Include target in all.
@@ -112,7 +108,7 @@ all: src/CMakeFiles/exe.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/exe.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/exe.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
 .PHONY : src/CMakeFiles/exe.dir/rule
@@ -133,277 +129,277 @@ clean: src/CMakeFiles/exe.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory src/Ej1
+# Directory level rules for directory src/Ex1
 
 # Convenience name for "all" pass in the directory.
-src/Ej1/all: src/Ej1/CMakeFiles/ej1.dir/all
+src/Ex1/all: src/Ex1/CMakeFiles/ej1.dir/all
 
-.PHONY : src/Ej1/all
+.PHONY : src/Ex1/all
 
 # Convenience name for "clean" pass in the directory.
-src/Ej1/clean: src/Ej1/CMakeFiles/ej1.dir/clean
+src/Ex1/clean: src/Ex1/CMakeFiles/ej1.dir/clean
 
-.PHONY : src/Ej1/clean
+.PHONY : src/Ex1/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/Ej1/preinstall:
+src/Ex1/preinstall:
 
-.PHONY : src/Ej1/preinstall
+.PHONY : src/Ex1/preinstall
 
 #=============================================================================
-# Target rules for target src/Ej1/CMakeFiles/ej1.dir
+# Target rules for target src/Ex1/CMakeFiles/ej1.dir
 
 # All Build rule for target.
-src/Ej1/CMakeFiles/ej1.dir/all:
-	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/depend
-	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target ej1"
-.PHONY : src/Ej1/CMakeFiles/ej1.dir/all
+src/Ex1/CMakeFiles/ej1.dir/all:
+	$(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/depend
+	$(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target ej1"
+.PHONY : src/Ex1/CMakeFiles/ej1.dir/all
 
 # Include target in all.
-all: src/Ej1/CMakeFiles/ej1.dir/all
+all: src/Ex1/CMakeFiles/ej1.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/Ej1/CMakeFiles/ej1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 4
-	$(MAKE) -f CMakeFiles/Makefile2 src/Ej1/CMakeFiles/ej1.dir/all
+src/Ex1/CMakeFiles/ej1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 10
+	$(MAKE) -f CMakeFiles/Makefile2 src/Ex1/CMakeFiles/ej1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
-.PHONY : src/Ej1/CMakeFiles/ej1.dir/rule
+.PHONY : src/Ex1/CMakeFiles/ej1.dir/rule
 
 # Convenience name for target.
-ej1: src/Ej1/CMakeFiles/ej1.dir/rule
+ej1: src/Ex1/CMakeFiles/ej1.dir/rule
 
 .PHONY : ej1
 
 # clean rule for target.
-src/Ej1/CMakeFiles/ej1.dir/clean:
-	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/clean
-.PHONY : src/Ej1/CMakeFiles/ej1.dir/clean
+src/Ex1/CMakeFiles/ej1.dir/clean:
+	$(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/clean
+.PHONY : src/Ex1/CMakeFiles/ej1.dir/clean
 
 # clean rule for target.
-clean: src/Ej1/CMakeFiles/ej1.dir/clean
+clean: src/Ex1/CMakeFiles/ej1.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory src/Ej2
+# Directory level rules for directory src/Ex2
 
 # Convenience name for "all" pass in the directory.
-src/Ej2/all: src/Ej2/CMakeFiles/ej2.dir/all
+src/Ex2/all: src/Ex2/CMakeFiles/ej2.dir/all
 
-.PHONY : src/Ej2/all
+.PHONY : src/Ex2/all
 
 # Convenience name for "clean" pass in the directory.
-src/Ej2/clean: src/Ej2/CMakeFiles/ej2.dir/clean
+src/Ex2/clean: src/Ex2/CMakeFiles/ej2.dir/clean
 
-.PHONY : src/Ej2/clean
+.PHONY : src/Ex2/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/Ej2/preinstall:
+src/Ex2/preinstall:
 
-.PHONY : src/Ej2/preinstall
+.PHONY : src/Ex2/preinstall
 
 #=============================================================================
-# Target rules for target src/Ej2/CMakeFiles/ej2.dir
+# Target rules for target src/Ex2/CMakeFiles/ej2.dir
 
 # All Build rule for target.
-src/Ej2/CMakeFiles/ej2.dir/all:
-	$(MAKE) -f src/Ej2/CMakeFiles/ej2.dir/build.make src/Ej2/CMakeFiles/ej2.dir/depend
-	$(MAKE) -f src/Ej2/CMakeFiles/ej2.dir/build.make src/Ej2/CMakeFiles/ej2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target ej2"
-.PHONY : src/Ej2/CMakeFiles/ej2.dir/all
+src/Ex2/CMakeFiles/ej2.dir/all:
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/depend
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target ej2"
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/all
 
 # Include target in all.
-all: src/Ej2/CMakeFiles/ej2.dir/all
+all: src/Ex2/CMakeFiles/ej2.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/Ej2/CMakeFiles/ej2.dir/rule: cmake_check_build_system
+src/Ex2/CMakeFiles/ej2.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 src/Ej2/CMakeFiles/ej2.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/Ex2/CMakeFiles/ej2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
-.PHONY : src/Ej2/CMakeFiles/ej2.dir/rule
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/rule
 
 # Convenience name for target.
-ej2: src/Ej2/CMakeFiles/ej2.dir/rule
+ej2: src/Ex2/CMakeFiles/ej2.dir/rule
 
 .PHONY : ej2
 
 # clean rule for target.
-src/Ej2/CMakeFiles/ej2.dir/clean:
-	$(MAKE) -f src/Ej2/CMakeFiles/ej2.dir/build.make src/Ej2/CMakeFiles/ej2.dir/clean
-.PHONY : src/Ej2/CMakeFiles/ej2.dir/clean
+src/Ex2/CMakeFiles/ej2.dir/clean:
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/clean
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/clean
 
 # clean rule for target.
-clean: src/Ej2/CMakeFiles/ej2.dir/clean
+clean: src/Ex2/CMakeFiles/ej2.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory src/Ej3
+# Directory level rules for directory src/Ex3
 
 # Convenience name for "all" pass in the directory.
-src/Ej3/all: src/Ej3/CMakeFiles/ej3.dir/all
+src/Ex3/all: src/Ex3/CMakeFiles/ej3.dir/all
 
-.PHONY : src/Ej3/all
+.PHONY : src/Ex3/all
 
 # Convenience name for "clean" pass in the directory.
-src/Ej3/clean: src/Ej3/CMakeFiles/ej3.dir/clean
+src/Ex3/clean: src/Ex3/CMakeFiles/ej3.dir/clean
 
-.PHONY : src/Ej3/clean
+.PHONY : src/Ex3/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/Ej3/preinstall:
+src/Ex3/preinstall:
 
-.PHONY : src/Ej3/preinstall
+.PHONY : src/Ex3/preinstall
 
 #=============================================================================
-# Target rules for target src/Ej3/CMakeFiles/ej3.dir
+# Target rules for target src/Ex3/CMakeFiles/ej3.dir
 
 # All Build rule for target.
-src/Ej3/CMakeFiles/ej3.dir/all:
-	$(MAKE) -f src/Ej3/CMakeFiles/ej3.dir/build.make src/Ej3/CMakeFiles/ej3.dir/depend
-	$(MAKE) -f src/Ej3/CMakeFiles/ej3.dir/build.make src/Ej3/CMakeFiles/ej3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target ej3"
-.PHONY : src/Ej3/CMakeFiles/ej3.dir/all
+src/Ex3/CMakeFiles/ej3.dir/all:
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/depend
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target ej3"
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/all
 
 # Include target in all.
-all: src/Ej3/CMakeFiles/ej3.dir/all
+all: src/Ex3/CMakeFiles/ej3.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/Ej3/CMakeFiles/ej3.dir/rule: cmake_check_build_system
+src/Ex3/CMakeFiles/ej3.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 src/Ej3/CMakeFiles/ej3.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/Ex3/CMakeFiles/ej3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
-.PHONY : src/Ej3/CMakeFiles/ej3.dir/rule
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/rule
 
 # Convenience name for target.
-ej3: src/Ej3/CMakeFiles/ej3.dir/rule
+ej3: src/Ex3/CMakeFiles/ej3.dir/rule
 
 .PHONY : ej3
 
 # clean rule for target.
-src/Ej3/CMakeFiles/ej3.dir/clean:
-	$(MAKE) -f src/Ej3/CMakeFiles/ej3.dir/build.make src/Ej3/CMakeFiles/ej3.dir/clean
-.PHONY : src/Ej3/CMakeFiles/ej3.dir/clean
+src/Ex3/CMakeFiles/ej3.dir/clean:
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/clean
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/clean
 
 # clean rule for target.
-clean: src/Ej3/CMakeFiles/ej3.dir/clean
+clean: src/Ex3/CMakeFiles/ej3.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory src/Ej4
+# Directory level rules for directory src/Ex4
 
 # Convenience name for "all" pass in the directory.
-src/Ej4/all: src/Ej4/CMakeFiles/ej4.dir/all
+src/Ex4/all: src/Ex4/CMakeFiles/ej4.dir/all
 
-.PHONY : src/Ej4/all
+.PHONY : src/Ex4/all
 
 # Convenience name for "clean" pass in the directory.
-src/Ej4/clean: src/Ej4/CMakeFiles/ej4.dir/clean
+src/Ex4/clean: src/Ex4/CMakeFiles/ej4.dir/clean
 
-.PHONY : src/Ej4/clean
+.PHONY : src/Ex4/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/Ej4/preinstall:
+src/Ex4/preinstall:
 
-.PHONY : src/Ej4/preinstall
+.PHONY : src/Ex4/preinstall
 
 #=============================================================================
-# Target rules for target src/Ej4/CMakeFiles/ej4.dir
+# Target rules for target src/Ex4/CMakeFiles/ej4.dir
 
 # All Build rule for target.
-src/Ej4/CMakeFiles/ej4.dir/all:
-	$(MAKE) -f src/Ej4/CMakeFiles/ej4.dir/build.make src/Ej4/CMakeFiles/ej4.dir/depend
-	$(MAKE) -f src/Ej4/CMakeFiles/ej4.dir/build.make src/Ej4/CMakeFiles/ej4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target ej4"
-.PHONY : src/Ej4/CMakeFiles/ej4.dir/all
+src/Ex4/CMakeFiles/ej4.dir/all:
+	$(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/depend
+	$(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target ej4"
+.PHONY : src/Ex4/CMakeFiles/ej4.dir/all
 
 # Include target in all.
-all: src/Ej4/CMakeFiles/ej4.dir/all
+all: src/Ex4/CMakeFiles/ej4.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/Ej4/CMakeFiles/ej4.dir/rule: cmake_check_build_system
+src/Ex4/CMakeFiles/ej4.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 src/Ej4/CMakeFiles/ej4.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/Ex4/CMakeFiles/ej4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
-.PHONY : src/Ej4/CMakeFiles/ej4.dir/rule
+.PHONY : src/Ex4/CMakeFiles/ej4.dir/rule
 
 # Convenience name for target.
-ej4: src/Ej4/CMakeFiles/ej4.dir/rule
+ej4: src/Ex4/CMakeFiles/ej4.dir/rule
 
 .PHONY : ej4
 
 # clean rule for target.
-src/Ej4/CMakeFiles/ej4.dir/clean:
-	$(MAKE) -f src/Ej4/CMakeFiles/ej4.dir/build.make src/Ej4/CMakeFiles/ej4.dir/clean
-.PHONY : src/Ej4/CMakeFiles/ej4.dir/clean
+src/Ex4/CMakeFiles/ej4.dir/clean:
+	$(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/clean
+.PHONY : src/Ex4/CMakeFiles/ej4.dir/clean
 
 # clean rule for target.
-clean: src/Ej4/CMakeFiles/ej4.dir/clean
+clean: src/Ex4/CMakeFiles/ej4.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory src/Ej5
+# Directory level rules for directory src/Ex5
 
 # Convenience name for "all" pass in the directory.
-src/Ej5/all: src/Ej5/CMakeFiles/ej5.dir/all
+src/Ex5/all: src/Ex5/CMakeFiles/ej5.dir/all
 
-.PHONY : src/Ej5/all
+.PHONY : src/Ex5/all
 
 # Convenience name for "clean" pass in the directory.
-src/Ej5/clean: src/Ej5/CMakeFiles/ej5.dir/clean
+src/Ex5/clean: src/Ex5/CMakeFiles/ej5.dir/clean
 
-.PHONY : src/Ej5/clean
+.PHONY : src/Ex5/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/Ej5/preinstall:
+src/Ex5/preinstall:
 
-.PHONY : src/Ej5/preinstall
+.PHONY : src/Ex5/preinstall
 
 #=============================================================================
-# Target rules for target src/Ej5/CMakeFiles/ej5.dir
+# Target rules for target src/Ex5/CMakeFiles/ej5.dir
 
 # All Build rule for target.
-src/Ej5/CMakeFiles/ej5.dir/all:
-	$(MAKE) -f src/Ej5/CMakeFiles/ej5.dir/build.make src/Ej5/CMakeFiles/ej5.dir/depend
-	$(MAKE) -f src/Ej5/CMakeFiles/ej5.dir/build.make src/Ej5/CMakeFiles/ej5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target ej5"
-.PHONY : src/Ej5/CMakeFiles/ej5.dir/all
+src/Ex5/CMakeFiles/ej5.dir/all:
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/depend
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target ej5"
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/all
 
 # Include target in all.
-all: src/Ej5/CMakeFiles/ej5.dir/all
+all: src/Ex5/CMakeFiles/ej5.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/Ej5/CMakeFiles/ej5.dir/rule: cmake_check_build_system
+src/Ex5/CMakeFiles/ej5.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 src/Ej5/CMakeFiles/ej5.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 src/Ex5/CMakeFiles/ej5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
-.PHONY : src/Ej5/CMakeFiles/ej5.dir/rule
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/rule
 
 # Convenience name for target.
-ej5: src/Ej5/CMakeFiles/ej5.dir/rule
+ej5: src/Ex5/CMakeFiles/ej5.dir/rule
 
 .PHONY : ej5
 
 # clean rule for target.
-src/Ej5/CMakeFiles/ej5.dir/clean:
-	$(MAKE) -f src/Ej5/CMakeFiles/ej5.dir/build.make src/Ej5/CMakeFiles/ej5.dir/clean
-.PHONY : src/Ej5/CMakeFiles/ej5.dir/clean
+src/Ex5/CMakeFiles/ej5.dir/clean:
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/clean
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/clean
 
 # clean rule for target.
-clean: src/Ej5/CMakeFiles/ej5.dir/clean
+clean: src/Ex5/CMakeFiles/ej5.dir/clean
 
 .PHONY : clean
 

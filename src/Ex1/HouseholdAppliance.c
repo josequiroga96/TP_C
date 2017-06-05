@@ -11,12 +11,6 @@ HouseholdAppliance* createHouseholdAppliance(char* name, char* model, int price)
     return result;
 }
 
-HouseholdAppliance* setPrice(HouseholdAppliance* hA, int newPrice){
-    hA->price=newPrice;
-
-    return hA;
-}
-
 void freeHouseholdAppliance(HouseholdAppliance* hA){
     free(hA->name);
     free(hA->model);

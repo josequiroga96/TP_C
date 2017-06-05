@@ -129,11 +129,61 @@ src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.provides: src/Ej1/CMakeFiles/ej1.dir/Ca
 src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.provides.build: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o
 
 
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o: src/Ej1/CMakeFiles/ej1.dir/flags.make
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o: ../src/Ej1/Manufacturer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej1.dir/Manufacturer.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ej1/Manufacturer.c
+
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej1.dir/Manufacturer.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ej1/Manufacturer.c > CMakeFiles/ej1.dir/Manufacturer.c.i
+
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej1.dir/Manufacturer.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ej1/Manufacturer.c -o CMakeFiles/ej1.dir/Manufacturer.c.s
+
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.requires:
+
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.requires
+
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.provides: src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.requires
+	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.provides.build
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.provides
+
+src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.provides.build: src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o
+
+
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.o: src/Ej1/CMakeFiles/ej1.dir/flags.make
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.o: ../src/Ej1/Provider.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object src/Ej1/CMakeFiles/ej1.dir/Provider.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej1.dir/Provider.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ej1/Provider.c
+
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej1.dir/Provider.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ej1/Provider.c > CMakeFiles/ej1.dir/Provider.c.i
+
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej1.dir/Provider.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ej1/Provider.c -o CMakeFiles/ej1.dir/Provider.c.s
+
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.requires:
+
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.requires
+
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.provides: src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.requires
+	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.provides.build
+.PHONY : src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.provides
+
+src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.provides.build: src/Ej1/CMakeFiles/ej1.dir/Provider.c.o
+
+
 # Object files for target ej1
 ej1_OBJECTS = \
 "CMakeFiles/ej1.dir/EJ1Test.c.o" \
 "CMakeFiles/ej1.dir/HouseholdAppliance.c.o" \
-"CMakeFiles/ej1.dir/Catalogue.c.o"
+"CMakeFiles/ej1.dir/Catalogue.c.o" \
+"CMakeFiles/ej1.dir/Manufacturer.c.o" \
+"CMakeFiles/ej1.dir/Provider.c.o"
 
 # External object files for target ej1
 ej1_EXTERNAL_OBJECTS =
@@ -141,9 +191,11 @@ ej1_EXTERNAL_OBJECTS =
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o
+src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o
+src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/Provider.c.o
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/build.make
 src/Ej1/libej1.a: src/Ej1/CMakeFiles/ej1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C static library libej1.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C static library libej1.a"
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && $(CMAKE_COMMAND) -P CMakeFiles/ej1.dir/cmake_clean_target.cmake
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ej1.dir/link.txt --verbose=$(VERBOSE)
 
@@ -155,6 +207,8 @@ src/Ej1/CMakeFiles/ej1.dir/build: src/Ej1/libej1.a
 src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/EJ1Test.c.o.requires
 src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o.requires
 src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/Catalogue.c.o.requires
+src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/Manufacturer.c.o.requires
+src/Ej1/CMakeFiles/ej1.dir/requires: src/Ej1/CMakeFiles/ej1.dir/Provider.c.o.requires
 
 .PHONY : src/Ej1/CMakeFiles/ej1.dir/requires
 

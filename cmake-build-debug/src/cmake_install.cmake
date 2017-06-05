@@ -29,11 +29,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/cmake_install.cmake")
-  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/cmake_install.cmake")
-  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/cmake_install.cmake")
-  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/cmake_install.cmake")
-  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/cmake_install.cmake")
 
 endif()
 

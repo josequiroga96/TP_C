@@ -34,11 +34,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.7.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.7.1/CMakeSystem.cmake"
   "../src/CMakeLists.txt"
-  "../src/Ej1/CMakeLists.txt"
-  "../src/Ej2/CMakeLists.txt"
-  "../src/Ej3/CMakeLists.txt"
-  "../src/Ej4/CMakeLists.txt"
-  "../src/Ej5/CMakeLists.txt"
+  "../src/Ex1/CMakeLists.txt"
+  "../src/Ex2/CMakeLists.txt"
+  "../src/Ex3/CMakeLists.txt"
+  "../src/Ex4/CMakeLists.txt"
+  "../src/Ex5/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -51,19 +51,19 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/Ej1/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/Ej2/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/Ej3/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/Ej4/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/Ej5/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/Ex1/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/Ex2/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/Ex3/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/Ex4/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/Ex5/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "src/CMakeFiles/exe.dir/DependInfo.cmake"
-  "src/Ej1/CMakeFiles/ej1.dir/DependInfo.cmake"
-  "src/Ej2/CMakeFiles/ej2.dir/DependInfo.cmake"
-  "src/Ej3/CMakeFiles/ej3.dir/DependInfo.cmake"
-  "src/Ej4/CMakeFiles/ej4.dir/DependInfo.cmake"
-  "src/Ej5/CMakeFiles/ej5.dir/DependInfo.cmake"
+  "src/Ex1/CMakeFiles/ej1.dir/DependInfo.cmake"
+  "src/Ex2/CMakeFiles/ej2.dir/DependInfo.cmake"
+  "src/Ex3/CMakeFiles/ej3.dir/DependInfo.cmake"
+  "src/Ex4/CMakeFiles/ej4.dir/DependInfo.cmake"
+  "src/Ex5/CMakeFiles/ej5.dir/DependInfo.cmake"
   )

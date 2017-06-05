@@ -133,7 +133,7 @@ ej1: cmake_check_build_system
 
 # fast build rule for target.
 ej1/fast:
-	$(MAKE) -f src/Ej1/CMakeFiles/ej1.dir/build.make src/Ej1/CMakeFiles/ej1.dir/build
+	$(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/build
 .PHONY : ej1/fast
 
 #=============================================================================
@@ -146,7 +146,7 @@ ej2: cmake_check_build_system
 
 # fast build rule for target.
 ej2/fast:
-	$(MAKE) -f src/Ej2/CMakeFiles/ej2.dir/build.make src/Ej2/CMakeFiles/ej2.dir/build
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/build
 .PHONY : ej2/fast
 
 #=============================================================================
@@ -159,7 +159,7 @@ ej3: cmake_check_build_system
 
 # fast build rule for target.
 ej3/fast:
-	$(MAKE) -f src/Ej3/CMakeFiles/ej3.dir/build.make src/Ej3/CMakeFiles/ej3.dir/build
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/build
 .PHONY : ej3/fast
 
 #=============================================================================
@@ -172,7 +172,7 @@ ej4: cmake_check_build_system
 
 # fast build rule for target.
 ej4/fast:
-	$(MAKE) -f src/Ej4/CMakeFiles/ej4.dir/build.make src/Ej4/CMakeFiles/ej4.dir/build
+	$(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/build
 .PHONY : ej4/fast
 
 #=============================================================================
@@ -185,7 +185,7 @@ ej5: cmake_check_build_system
 
 # fast build rule for target.
 ej5/fast:
-	$(MAKE) -f src/Ej5/CMakeFiles/ej5.dir/build.make src/Ej5/CMakeFiles/ej5.dir/build
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/build
 .PHONY : ej5/fast
 
 # Help Target

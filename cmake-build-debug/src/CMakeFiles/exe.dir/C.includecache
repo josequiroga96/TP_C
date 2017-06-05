@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.h
+HouseholdAppliance.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
+HouseholdAppliance.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.h
+HouseholdAppliance.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
+Manufacturer.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
+
+/Users/JoseRojas/Desktop/TP_C/src/main.c
+stdio.h
+/Users/JoseRojas/Desktop/TP_C/src/stdio.h
+Ex1/Manufacturer.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
+Ex1/Provider.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.h
+Ex1/Catalogue.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.h
+

@@ -14,11 +14,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/CMakeFiles/ej1.dir/DependInfo.cmake"
-  "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/CMakeFiles/ej2.dir/DependInfo.cmake"
-  "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/CMakeFiles/ej3.dir/DependInfo.cmake"
-  "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/CMakeFiles/ej4.dir/DependInfo.cmake"
-  "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/CMakeFiles/ej5.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

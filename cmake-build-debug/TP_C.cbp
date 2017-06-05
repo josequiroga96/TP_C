@@ -5,7 +5,7 @@
 		<Option title="TP_C"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\Ej1\;CMake Files\src\Ej2\;CMake Files\src\Ej3\;CMake Files\src\Ej4\;CMake Files\src\Ej5\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\Ex1\;CMake Files\src\Ex2\;CMake Files\src\Ex3\;CMake Files\src\Ex4\;CMake Files\src\Ex5\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug"/>
@@ -80,8 +80,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="ej1">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/libej1.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/libej1.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -94,15 +94,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 ej1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 ej1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej1/fast">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/libej1.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/libej1.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -115,15 +115,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 ej1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 ej1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej2">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/libej2.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/libej2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -136,15 +136,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 ej2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 ej2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej2/fast">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/libej2.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/libej2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -157,15 +157,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 ej2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej2/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 ej2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej3">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/libej3.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/libej3.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -178,15 +178,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 ej3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 ej3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej3/fast">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/libej3.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/libej3.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -199,15 +199,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 ej3/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej3/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 ej3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej4">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/libej4.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/libej4.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -220,15 +220,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 ej4"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 ej4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej4/fast">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/libej4.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/libej4.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -241,15 +241,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 ej4/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej4/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 ej4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej5">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/libej5.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/libej5.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -262,15 +262,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 ej5"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 ej5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ej5/fast">
-				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/libej5.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5"/>
+				<Option output="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/libej5.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -283,38 +283,74 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 ej5/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ej5/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 ej5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Cart.c">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/Catalogue.h">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Cart.h">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/EJ1Test.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.c">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.h">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/HouseholdAppliance.h">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/EJ1Test.c">
 			<Option target="ej1"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej2/EJ2Test.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.h">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineTicket.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineTicket.h">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.h">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.c">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.h">
+			<Option target="ej1"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/EJ2Test.c">
 			<Option target="ej2"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej3/EJ3Test.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/EJ3Test.c">
 			<Option target="ej3"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej4/EJ4Test.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex4/EJ4Test.c">
 			<Option target="ej4"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej5/EJ5Test.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/EJ5Test.c">
 			<Option target="ej5"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/main.c">
@@ -326,20 +362,20 @@
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej1/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\Ej1\"/>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\Ex1\"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej2/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\Ej2\"/>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\Ex2\"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej3/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\Ej3\"/>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\Ex3\"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej4/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\Ej4\"/>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\Ex4\"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ej5/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\Ej5\"/>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\Ex5\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
