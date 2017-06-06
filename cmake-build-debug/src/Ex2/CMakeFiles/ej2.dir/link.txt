@@ -1,2 +1,2 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libej2.a  CMakeFiles/ej2.dir/EJ2Test.c.o
+/Library/Developer/CommandLineTools/usr/bin/ar qc libej2.a  CMakeFiles/ej2.dir/EJ2Test.c.o CMakeFiles/ej2.dir/Camera.c.o CMakeFiles/ej2.dir/Accessory.c.o CMakeFiles/ej2.dir/Manufacturer.c.o CMakeFiles/ej2.dir/Provider.c.o CMakeFiles/ej2.dir/Sale.c.o CMakeFiles/ej2.dir/LineSale.c.o CMakeFiles/ej2.dir/RegisteredUser.c.o
 /Library/Developer/CommandLineTools/usr/bin/ranlib libej2.a

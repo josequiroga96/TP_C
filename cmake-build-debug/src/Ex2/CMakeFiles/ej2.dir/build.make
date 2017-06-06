@@ -81,17 +81,199 @@ src/Ex2/CMakeFiles/ej2.dir/EJ2Test.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/EJ2T
 src/Ex2/CMakeFiles/ej2.dir/EJ2Test.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/EJ2Test.c.o
 
 
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.o: ../src/Ex2/Camera.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/Ex2/CMakeFiles/ej2.dir/Camera.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/Camera.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.c
+
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/Camera.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.c > CMakeFiles/ej2.dir/Camera.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/Camera.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.c -o CMakeFiles/ej2.dir/Camera.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/Camera.c.o
+
+
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o: ../src/Ex2/Accessory.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/Accessory.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.c
+
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/Accessory.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.c > CMakeFiles/ej2.dir/Accessory.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/Accessory.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.c -o CMakeFiles/ej2.dir/Accessory.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o
+
+
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o: ../src/Ex2/Manufacturer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/Manufacturer.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c
+
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/Manufacturer.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c > CMakeFiles/ej2.dir/Manufacturer.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/Manufacturer.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c -o CMakeFiles/ej2.dir/Manufacturer.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o
+
+
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.o: ../src/Ex2/Provider.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object src/Ex2/CMakeFiles/ej2.dir/Provider.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/Provider.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c
+
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/Provider.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c > CMakeFiles/ej2.dir/Provider.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/Provider.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c -o CMakeFiles/ej2.dir/Provider.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/Provider.c.o
+
+
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.o: ../src/Ex2/Sale.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object src/Ex2/CMakeFiles/ej2.dir/Sale.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/Sale.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.c
+
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/Sale.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.c > CMakeFiles/ej2.dir/Sale.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/Sale.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.c -o CMakeFiles/ej2.dir/Sale.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/Sale.c.o
+
+
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o: ../src/Ex2/LineSale.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/LineSale.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.c
+
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/LineSale.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.c > CMakeFiles/ej2.dir/LineSale.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/LineSale.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.c -o CMakeFiles/ej2.dir/LineSale.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o
+
+
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o: src/Ex2/CMakeFiles/ej2.dir/flags.make
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o: ../src/Ex2/RegisteredUser.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej2.dir/RegisteredUser.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.c
+
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej2.dir/RegisteredUser.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.c > CMakeFiles/ej2.dir/RegisteredUser.c.i
+
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej2.dir/RegisteredUser.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.c -o CMakeFiles/ej2.dir/RegisteredUser.c.s
+
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.requires:
+
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.requires
+
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.provides: src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.provides
+
+src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.provides.build: src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o
+
+
 # Object files for target ej2
 ej2_OBJECTS = \
-"CMakeFiles/ej2.dir/EJ2Test.c.o"
+"CMakeFiles/ej2.dir/EJ2Test.c.o" \
+"CMakeFiles/ej2.dir/Camera.c.o" \
+"CMakeFiles/ej2.dir/Accessory.c.o" \
+"CMakeFiles/ej2.dir/Manufacturer.c.o" \
+"CMakeFiles/ej2.dir/Provider.c.o" \
+"CMakeFiles/ej2.dir/Sale.c.o" \
+"CMakeFiles/ej2.dir/LineSale.c.o" \
+"CMakeFiles/ej2.dir/RegisteredUser.c.o"
 
 # External object files for target ej2
 ej2_EXTERNAL_OBJECTS =
 
 src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/EJ2Test.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/Camera.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/Provider.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/Sale.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o
+src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o
 src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/build.make
 src/Ex2/libej2.a: src/Ex2/CMakeFiles/ej2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libej2.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C static library libej2.a"
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && $(CMAKE_COMMAND) -P CMakeFiles/ej2.dir/cmake_clean_target.cmake
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ej2.dir/link.txt --verbose=$(VERBOSE)
 
@@ -101,6 +283,13 @@ src/Ex2/CMakeFiles/ej2.dir/build: src/Ex2/libej2.a
 .PHONY : src/Ex2/CMakeFiles/ej2.dir/build
 
 src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/EJ2Test.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/Camera.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/Provider.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/Sale.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o.requires
+src/Ex2/CMakeFiles/ej2.dir/requires: src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o.requires
 
 .PHONY : src/Ex2/CMakeFiles/ej2.dir/requires
 

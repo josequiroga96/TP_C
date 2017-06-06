@@ -125,6 +125,60 @@ ej2/fast:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/build
 .PHONY : ej2/fast
 
+Accessory.o: Accessory.c.o
+
+.PHONY : Accessory.o
+
+# target to build an object file
+Accessory.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Accessory.c.o
+.PHONY : Accessory.c.o
+
+Accessory.i: Accessory.c.i
+
+.PHONY : Accessory.i
+
+# target to preprocess a source file
+Accessory.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Accessory.c.i
+.PHONY : Accessory.c.i
+
+Accessory.s: Accessory.c.s
+
+.PHONY : Accessory.s
+
+# target to generate assembly for a file
+Accessory.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Accessory.c.s
+.PHONY : Accessory.c.s
+
+Camera.o: Camera.c.o
+
+.PHONY : Camera.o
+
+# target to build an object file
+Camera.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Camera.c.o
+.PHONY : Camera.c.o
+
+Camera.i: Camera.c.i
+
+.PHONY : Camera.i
+
+# target to preprocess a source file
+Camera.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Camera.c.i
+.PHONY : Camera.c.i
+
+Camera.s: Camera.c.s
+
+.PHONY : Camera.s
+
+# target to generate assembly for a file
+Camera.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Camera.c.s
+.PHONY : Camera.c.s
+
 EJ2Test.o: EJ2Test.c.o
 
 .PHONY : EJ2Test.o
@@ -152,6 +206,141 @@ EJ2Test.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/EJ2Test.c.s
 .PHONY : EJ2Test.c.s
 
+LineSale.o: LineSale.c.o
+
+.PHONY : LineSale.o
+
+# target to build an object file
+LineSale.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/LineSale.c.o
+.PHONY : LineSale.c.o
+
+LineSale.i: LineSale.c.i
+
+.PHONY : LineSale.i
+
+# target to preprocess a source file
+LineSale.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/LineSale.c.i
+.PHONY : LineSale.c.i
+
+LineSale.s: LineSale.c.s
+
+.PHONY : LineSale.s
+
+# target to generate assembly for a file
+LineSale.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/LineSale.c.s
+.PHONY : LineSale.c.s
+
+Manufacturer.o: Manufacturer.c.o
+
+.PHONY : Manufacturer.o
+
+# target to build an object file
+Manufacturer.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.o
+.PHONY : Manufacturer.c.o
+
+Manufacturer.i: Manufacturer.c.i
+
+.PHONY : Manufacturer.i
+
+# target to preprocess a source file
+Manufacturer.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.i
+.PHONY : Manufacturer.c.i
+
+Manufacturer.s: Manufacturer.c.s
+
+.PHONY : Manufacturer.s
+
+# target to generate assembly for a file
+Manufacturer.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Manufacturer.c.s
+.PHONY : Manufacturer.c.s
+
+Provider.o: Provider.c.o
+
+.PHONY : Provider.o
+
+# target to build an object file
+Provider.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Provider.c.o
+.PHONY : Provider.c.o
+
+Provider.i: Provider.c.i
+
+.PHONY : Provider.i
+
+# target to preprocess a source file
+Provider.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Provider.c.i
+.PHONY : Provider.c.i
+
+Provider.s: Provider.c.s
+
+.PHONY : Provider.s
+
+# target to generate assembly for a file
+Provider.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Provider.c.s
+.PHONY : Provider.c.s
+
+RegisteredUser.o: RegisteredUser.c.o
+
+.PHONY : RegisteredUser.o
+
+# target to build an object file
+RegisteredUser.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.o
+.PHONY : RegisteredUser.c.o
+
+RegisteredUser.i: RegisteredUser.c.i
+
+.PHONY : RegisteredUser.i
+
+# target to preprocess a source file
+RegisteredUser.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.i
+.PHONY : RegisteredUser.c.i
+
+RegisteredUser.s: RegisteredUser.c.s
+
+.PHONY : RegisteredUser.s
+
+# target to generate assembly for a file
+RegisteredUser.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/RegisteredUser.c.s
+.PHONY : RegisteredUser.c.s
+
+Sale.o: Sale.c.o
+
+.PHONY : Sale.o
+
+# target to build an object file
+Sale.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Sale.c.o
+.PHONY : Sale.c.o
+
+Sale.i: Sale.c.i
+
+.PHONY : Sale.i
+
+# target to preprocess a source file
+Sale.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Sale.c.i
+.PHONY : Sale.c.i
+
+Sale.s: Sale.c.s
+
+.PHONY : Sale.s
+
+# target to generate assembly for a file
+Sale.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/Sale.c.s
+.PHONY : Sale.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -161,9 +350,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ej2"
+	@echo "... Accessory.o"
+	@echo "... Accessory.i"
+	@echo "... Accessory.s"
+	@echo "... Camera.o"
+	@echo "... Camera.i"
+	@echo "... Camera.s"
 	@echo "... EJ2Test.o"
 	@echo "... EJ2Test.i"
 	@echo "... EJ2Test.s"
+	@echo "... LineSale.o"
+	@echo "... LineSale.i"
+	@echo "... LineSale.s"
+	@echo "... Manufacturer.o"
+	@echo "... Manufacturer.i"
+	@echo "... Manufacturer.s"
+	@echo "... Provider.o"
+	@echo "... Provider.i"
+	@echo "... Provider.s"
+	@echo "... RegisteredUser.o"
+	@echo "... RegisteredUser.i"
+	@echo "... RegisteredUser.s"
+	@echo "... Sale.o"
+	@echo "... Sale.i"
+	@echo "... Sale.s"
 .PHONY : help
 
 

@@ -341,7 +341,49 @@
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.h">
 			<Option target="ej1"/>
 		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h">
+			<Option target="ej2"/>
+		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/EJ2Test.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.h">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.h">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.h">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.c">
+			<Option target="ej2"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.h">
 			<Option target="ej2"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/EJ3Test.c">
