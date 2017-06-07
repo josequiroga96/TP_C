@@ -4,17 +4,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/Cart.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Cart.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Catalogue.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/EJ1Test.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/EJ1Test.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/LineCart.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineTicket.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/LineTicket.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Manufacturer.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Provider.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Ticket.c.o"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/Cart.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Cart.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/Catalogue.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Catalogue.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/EJ1Test.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/EJ1Test.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/HouseholdAppliance.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/HouseholdAppliance.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/LineCart.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/LineCart.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/LineTicket.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/LineTicket.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/Manufacturer.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Manufacturer.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/Provider.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Provider.c.obj"
+  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex1/Ticket.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/CMakeFiles/ej1.dir/Ticket.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

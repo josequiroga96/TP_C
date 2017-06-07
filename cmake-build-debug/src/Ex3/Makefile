@@ -125,33 +125,6 @@ ej3/fast:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/build
 .PHONY : ej3/fast
 
-Borrowing.o: Borrowing.c.o
-
-.PHONY : Borrowing.o
-
-# target to build an object file
-Borrowing.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o
-.PHONY : Borrowing.c.o
-
-Borrowing.i: Borrowing.c.i
-
-.PHONY : Borrowing.i
-
-# target to preprocess a source file
-Borrowing.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.i
-.PHONY : Borrowing.c.i
-
-Borrowing.s: Borrowing.c.s
-
-.PHONY : Borrowing.s
-
-# target to generate assembly for a file
-Borrowing.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.s
-.PHONY : Borrowing.c.s
-
 EJ3Test.o: EJ3Test.c.o
 
 .PHONY : EJ3Test.o
@@ -179,87 +152,6 @@ EJ3Test.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/EJ3Test.c.s
 .PHONY : EJ3Test.c.s
 
-Library.o: Library.c.o
-
-.PHONY : Library.o
-
-# target to build an object file
-Library.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Library.c.o
-.PHONY : Library.c.o
-
-Library.i: Library.c.i
-
-.PHONY : Library.i
-
-# target to preprocess a source file
-Library.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Library.c.i
-.PHONY : Library.c.i
-
-Library.s: Library.c.s
-
-.PHONY : Library.s
-
-# target to generate assembly for a file
-Library.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Library.c.s
-.PHONY : Library.c.s
-
-Material.o: Material.c.o
-
-.PHONY : Material.o
-
-# target to build an object file
-Material.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Material.c.o
-.PHONY : Material.c.o
-
-Material.i: Material.c.i
-
-.PHONY : Material.i
-
-# target to preprocess a source file
-Material.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Material.c.i
-.PHONY : Material.c.i
-
-Material.s: Material.c.s
-
-.PHONY : Material.s
-
-# target to generate assembly for a file
-Material.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Material.c.s
-.PHONY : Material.c.s
-
-Person.o: Person.c.o
-
-.PHONY : Person.o
-
-# target to build an object file
-Person.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Person.c.o
-.PHONY : Person.c.o
-
-Person.i: Person.c.i
-
-.PHONY : Person.i
-
-# target to preprocess a source file
-Person.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Person.c.i
-.PHONY : Person.c.i
-
-Person.s: Person.c.s
-
-.PHONY : Person.s
-
-# target to generate assembly for a file
-Person.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Person.c.s
-.PHONY : Person.c.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -269,21 +161,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ej3"
-	@echo "... Borrowing.o"
-	@echo "... Borrowing.i"
-	@echo "... Borrowing.s"
 	@echo "... EJ3Test.o"
 	@echo "... EJ3Test.i"
 	@echo "... EJ3Test.s"
-	@echo "... Library.o"
-	@echo "... Library.i"
-	@echo "... Library.s"
-	@echo "... Material.o"
-	@echo "... Material.i"
-	@echo "... Material.s"
-	@echo "... Person.o"
-	@echo "... Person.i"
-	@echo "... Person.s"
 .PHONY : help
 
 

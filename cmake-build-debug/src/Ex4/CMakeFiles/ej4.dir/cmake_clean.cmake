@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ej4.dir/EJ4Test.c.o"
+  "CMakeFiles/ej4.dir/EJ4Test.c.obj"
   "libej4.pdb"
   "libej4.a"
 )
