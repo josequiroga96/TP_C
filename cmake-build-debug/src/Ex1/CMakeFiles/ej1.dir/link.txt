@@ -1,2 +1,2 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libej1.a  CMakeFiles/ej1.dir/EJ1Test.c.o CMakeFiles/ej1.dir/HouseholdAppliance.c.o CMakeFiles/ej1.dir/Catalogue.c.o CMakeFiles/ej1.dir/Manufacturer.c.o CMakeFiles/ej1.dir/Provider.c.o CMakeFiles/ej1.dir/LineCart.c.o CMakeFiles/ej1.dir/Cart.c.o CMakeFiles/ej1.dir/LineTicket.c.o CMakeFiles/ej1.dir/Ticket.c.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libej1.a
+C:\MinGW\bin\ar.exe qc libej1.a  CMakeFiles/ej1.dir/EJ1Test.c.obj CMakeFiles/ej1.dir/HouseholdAppliance.c.obj CMakeFiles/ej1.dir/Catalogue.c.obj CMakeFiles/ej1.dir/Manufacturer.c.obj CMakeFiles/ej1.dir/Provider.c.obj CMakeFiles/ej1.dir/LineCart.c.obj CMakeFiles/ej1.dir/Cart.c.obj CMakeFiles/ej1.dir/LineTicket.c.obj CMakeFiles/ej1.dir/Ticket.c.obj
+C:\MinGW\bin\ranlib.exe libej1.a
