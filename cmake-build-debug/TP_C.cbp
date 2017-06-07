@@ -386,7 +386,31 @@
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.h">
 			<Option target="ej2"/>
 		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Borrowing.c">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Borrowing.h">
+			<Option target="ej3"/>
+		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/EJ3Test.c">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.c">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.h">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.c">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.h">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.c">
+			<Option target="ej3"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.h">
 			<Option target="ej3"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex4/EJ4Test.c">

@@ -81,17 +81,121 @@ src/Ex3/CMakeFiles/ej3.dir/EJ3Test.c.o.provides: src/Ex3/CMakeFiles/ej3.dir/EJ3T
 src/Ex3/CMakeFiles/ej3.dir/EJ3Test.c.o.provides.build: src/Ex3/CMakeFiles/ej3.dir/EJ3Test.c.o
 
 
+src/Ex3/CMakeFiles/ej3.dir/Material.c.o: src/Ex3/CMakeFiles/ej3.dir/flags.make
+src/Ex3/CMakeFiles/ej3.dir/Material.c.o: ../src/Ex3/Material.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/Ex3/CMakeFiles/ej3.dir/Material.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej3.dir/Material.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.c
+
+src/Ex3/CMakeFiles/ej3.dir/Material.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej3.dir/Material.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.c > CMakeFiles/ej3.dir/Material.c.i
+
+src/Ex3/CMakeFiles/ej3.dir/Material.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej3.dir/Material.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.c -o CMakeFiles/ej3.dir/Material.c.s
+
+src/Ex3/CMakeFiles/ej3.dir/Material.c.o.requires:
+
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Material.c.o.requires
+
+src/Ex3/CMakeFiles/ej3.dir/Material.c.o.provides: src/Ex3/CMakeFiles/ej3.dir/Material.c.o.requires
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Material.c.o.provides.build
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Material.c.o.provides
+
+src/Ex3/CMakeFiles/ej3.dir/Material.c.o.provides.build: src/Ex3/CMakeFiles/ej3.dir/Material.c.o
+
+
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o: src/Ex3/CMakeFiles/ej3.dir/flags.make
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o: ../src/Ex3/Borrowing.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej3.dir/Borrowing.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex3/Borrowing.c
+
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej3.dir/Borrowing.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex3/Borrowing.c > CMakeFiles/ej3.dir/Borrowing.c.i
+
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej3.dir/Borrowing.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex3/Borrowing.c -o CMakeFiles/ej3.dir/Borrowing.c.s
+
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.requires:
+
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.requires
+
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.provides: src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.requires
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.provides.build
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.provides
+
+src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.provides.build: src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o
+
+
+src/Ex3/CMakeFiles/ej3.dir/Person.c.o: src/Ex3/CMakeFiles/ej3.dir/flags.make
+src/Ex3/CMakeFiles/ej3.dir/Person.c.o: ../src/Ex3/Person.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/Ex3/CMakeFiles/ej3.dir/Person.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej3.dir/Person.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.c
+
+src/Ex3/CMakeFiles/ej3.dir/Person.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej3.dir/Person.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.c > CMakeFiles/ej3.dir/Person.c.i
+
+src/Ex3/CMakeFiles/ej3.dir/Person.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej3.dir/Person.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.c -o CMakeFiles/ej3.dir/Person.c.s
+
+src/Ex3/CMakeFiles/ej3.dir/Person.c.o.requires:
+
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Person.c.o.requires
+
+src/Ex3/CMakeFiles/ej3.dir/Person.c.o.provides: src/Ex3/CMakeFiles/ej3.dir/Person.c.o.requires
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Person.c.o.provides.build
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Person.c.o.provides
+
+src/Ex3/CMakeFiles/ej3.dir/Person.c.o.provides.build: src/Ex3/CMakeFiles/ej3.dir/Person.c.o
+
+
+src/Ex3/CMakeFiles/ej3.dir/Library.c.o: src/Ex3/CMakeFiles/ej3.dir/flags.make
+src/Ex3/CMakeFiles/ej3.dir/Library.c.o: ../src/Ex3/Library.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object src/Ex3/CMakeFiles/ej3.dir/Library.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej3.dir/Library.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.c
+
+src/Ex3/CMakeFiles/ej3.dir/Library.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej3.dir/Library.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.c > CMakeFiles/ej3.dir/Library.c.i
+
+src/Ex3/CMakeFiles/ej3.dir/Library.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej3.dir/Library.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.c -o CMakeFiles/ej3.dir/Library.c.s
+
+src/Ex3/CMakeFiles/ej3.dir/Library.c.o.requires:
+
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Library.c.o.requires
+
+src/Ex3/CMakeFiles/ej3.dir/Library.c.o.provides: src/Ex3/CMakeFiles/ej3.dir/Library.c.o.requires
+	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/Library.c.o.provides.build
+.PHONY : src/Ex3/CMakeFiles/ej3.dir/Library.c.o.provides
+
+src/Ex3/CMakeFiles/ej3.dir/Library.c.o.provides.build: src/Ex3/CMakeFiles/ej3.dir/Library.c.o
+
+
 # Object files for target ej3
 ej3_OBJECTS = \
-"CMakeFiles/ej3.dir/EJ3Test.c.o"
+"CMakeFiles/ej3.dir/EJ3Test.c.o" \
+"CMakeFiles/ej3.dir/Material.c.o" \
+"CMakeFiles/ej3.dir/Borrowing.c.o" \
+"CMakeFiles/ej3.dir/Person.c.o" \
+"CMakeFiles/ej3.dir/Library.c.o"
 
 # External object files for target ej3
 ej3_EXTERNAL_OBJECTS =
 
 src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/EJ3Test.c.o
+src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/Material.c.o
+src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o
+src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/Person.c.o
+src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/Library.c.o
 src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/build.make
 src/Ex3/libej3.a: src/Ex3/CMakeFiles/ej3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libej3.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C static library libej3.a"
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && $(CMAKE_COMMAND) -P CMakeFiles/ej3.dir/cmake_clean_target.cmake
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ej3.dir/link.txt --verbose=$(VERBOSE)
 
@@ -101,6 +205,10 @@ src/Ex3/CMakeFiles/ej3.dir/build: src/Ex3/libej3.a
 .PHONY : src/Ex3/CMakeFiles/ej3.dir/build
 
 src/Ex3/CMakeFiles/ej3.dir/requires: src/Ex3/CMakeFiles/ej3.dir/EJ3Test.c.o.requires
+src/Ex3/CMakeFiles/ej3.dir/requires: src/Ex3/CMakeFiles/ej3.dir/Material.c.o.requires
+src/Ex3/CMakeFiles/ej3.dir/requires: src/Ex3/CMakeFiles/ej3.dir/Borrowing.c.o.requires
+src/Ex3/CMakeFiles/ej3.dir/requires: src/Ex3/CMakeFiles/ej3.dir/Person.c.o.requires
+src/Ex3/CMakeFiles/ej3.dir/requires: src/Ex3/CMakeFiles/ej3.dir/Library.c.o.requires
 
 .PHONY : src/Ex3/CMakeFiles/ej3.dir/requires
 
