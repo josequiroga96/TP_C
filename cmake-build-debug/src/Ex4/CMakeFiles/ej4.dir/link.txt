@@ -1,2 +1,2 @@
-C:\MinGW\bin\ar.exe qc libej4.a  CMakeFiles/ej4.dir/EJ4Test.c.obj
-C:\MinGW\bin\ranlib.exe libej4.a
+/Library/Developer/CommandLineTools/usr/bin/ar qc libej4.a  CMakeFiles/ej4.dir/EJ4Test.c.o CMakeFiles/ej4.dir/Room.c.o CMakeFiles/ej4.dir/Reservation.c.o CMakeFiles/ej4.dir/Bill.c.o CMakeFiles/ej4.dir/Client.c.o CMakeFiles/ej4.dir/Receptionist.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libej4.a

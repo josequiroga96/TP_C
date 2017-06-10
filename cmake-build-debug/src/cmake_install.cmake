@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src
+# Install script for directory: /Users/JoseRojas/Desktop/TP_C/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TP_C")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -29,11 +29,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex1/cmake_install.cmake")
-  include("C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex2/cmake_install.cmake")
-  include("C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex3/cmake_install.cmake")
-  include("C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex4/cmake_install.cmake")
-  include("C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex5/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex1/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex3/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/cmake_install.cmake")
+  include("/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/cmake_install.cmake")
 
 endif()
 

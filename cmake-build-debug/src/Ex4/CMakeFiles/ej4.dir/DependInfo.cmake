@@ -4,9 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex4/EJ4Test.c" "C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/EJ4Test.c.obj"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex4/Bill.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/Bill.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex4/Client.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/Client.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex4/EJ4Test.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/EJ4Test.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex4/Receptionist.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/Receptionist.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex4/Reservation.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/Reservation.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex4/CMakeFiles/ej4.dir/Room.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

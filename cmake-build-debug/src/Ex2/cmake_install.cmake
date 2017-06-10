@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Tomi/Documents/Facultad/AyED/TPs/TP_C/src/Ex2
+# Install script for directory: /Users/JoseRojas/Desktop/TP_C/src/Ex2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TP_C")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

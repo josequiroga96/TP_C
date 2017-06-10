@@ -1,2 +1,2 @@
-C:\MinGW\bin\ar.exe qc libej2.a  CMakeFiles/ej2.dir/EJ2Test.c.obj CMakeFiles/ej2.dir/Camera.c.obj CMakeFiles/ej2.dir/Accessory.c.obj CMakeFiles/ej2.dir/Manufacturer.c.obj CMakeFiles/ej2.dir/Provider.c.obj CMakeFiles/ej2.dir/Sale.c.obj CMakeFiles/ej2.dir/LineSale.c.obj CMakeFiles/ej2.dir/RegisteredUser.c.obj
-C:\MinGW\bin\ranlib.exe libej2.a
+/Library/Developer/CommandLineTools/usr/bin/ar qc libej2.a  CMakeFiles/ej2.dir/EJ2Test.c.o CMakeFiles/ej2.dir/Camera.c.o CMakeFiles/ej2.dir/Accessory.c.o CMakeFiles/ej2.dir/Manufacturer.c.o CMakeFiles/ej2.dir/Provider.c.o CMakeFiles/ej2.dir/Sale.c.o CMakeFiles/ej2.dir/LineSale.c.o CMakeFiles/ej2.dir/RegisteredUser.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libej2.a

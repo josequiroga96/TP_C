@@ -1,3 +1,1 @@
-"C:\Program Files (x86)\JetBrains\CLion 2016.3.4\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\exe.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\exe.dir/objects.a @CMakeFiles\exe.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe  -g   -Wl,--whole-archive CMakeFiles\exe.dir/objects.a -Wl,--no-whole-archive  -o exe.exe -Wl,--out-implib,libexe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\exe.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exe.dir/main.c.o  -o exe -lEx1 -lEx2 -lEx3 -lEx4 -lEx5 
