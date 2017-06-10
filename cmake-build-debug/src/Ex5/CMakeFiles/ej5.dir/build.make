@@ -81,17 +81,121 @@ src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.o.provides: src/Ex5/CMakeFiles/ej5.dir/EJ5T
 src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.o.provides.build: src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.o
 
 
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o: src/Ex5/CMakeFiles/ej5.dir/flags.make
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o: ../src/Ex5/Surplus.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej5.dir/Surplus.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex5/Surplus.c
+
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej5.dir/Surplus.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex5/Surplus.c > CMakeFiles/ej5.dir/Surplus.c.i
+
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej5.dir/Surplus.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex5/Surplus.c -o CMakeFiles/ej5.dir/Surplus.c.s
+
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.requires:
+
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.requires
+
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.provides: src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.requires
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.provides.build
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.provides
+
+src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.provides.build: src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o
+
+
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.o: src/Ex5/CMakeFiles/ej5.dir/flags.make
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.o: ../src/Ex5/Rental.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex5/CMakeFiles/ej5.dir/Rental.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej5.dir/Rental.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.c
+
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej5.dir/Rental.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.c > CMakeFiles/ej5.dir/Rental.c.i
+
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej5.dir/Rental.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.c -o CMakeFiles/ej5.dir/Rental.c.s
+
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.requires:
+
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.requires
+
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.provides: src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.requires
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.provides.build
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.provides
+
+src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.provides.build: src/Ex5/CMakeFiles/ej5.dir/Rental.c.o
+
+
+src/Ex5/CMakeFiles/ej5.dir/Client.c.o: src/Ex5/CMakeFiles/ej5.dir/flags.make
+src/Ex5/CMakeFiles/ej5.dir/Client.c.o: ../src/Ex5/Client.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/Ex5/CMakeFiles/ej5.dir/Client.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej5.dir/Client.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c
+
+src/Ex5/CMakeFiles/ej5.dir/Client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej5.dir/Client.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c > CMakeFiles/ej5.dir/Client.c.i
+
+src/Ex5/CMakeFiles/ej5.dir/Client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej5.dir/Client.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c -o CMakeFiles/ej5.dir/Client.c.s
+
+src/Ex5/CMakeFiles/ej5.dir/Client.c.o.requires:
+
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Client.c.o.requires
+
+src/Ex5/CMakeFiles/ej5.dir/Client.c.o.provides: src/Ex5/CMakeFiles/ej5.dir/Client.c.o.requires
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.o.provides.build
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Client.c.o.provides
+
+src/Ex5/CMakeFiles/ej5.dir/Client.c.o.provides.build: src/Ex5/CMakeFiles/ej5.dir/Client.c.o
+
+
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o: src/Ex5/CMakeFiles/ej5.dir/flags.make
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o: ../src/Ex5/Administrator.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ej5.dir/Administrator.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.c
+
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ej5.dir/Administrator.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.c > CMakeFiles/ej5.dir/Administrator.c.i
+
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ej5.dir/Administrator.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.c -o CMakeFiles/ej5.dir/Administrator.c.s
+
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.requires:
+
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.requires
+
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.provides: src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.requires
+	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.provides.build
+.PHONY : src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.provides
+
+src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.provides.build: src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o
+
+
 # Object files for target ej5
 ej5_OBJECTS = \
-"CMakeFiles/ej5.dir/EJ5Test.c.o"
+"CMakeFiles/ej5.dir/EJ5Test.c.o" \
+"CMakeFiles/ej5.dir/Surplus.c.o" \
+"CMakeFiles/ej5.dir/Rental.c.o" \
+"CMakeFiles/ej5.dir/Client.c.o" \
+"CMakeFiles/ej5.dir/Administrator.c.o"
 
 # External object files for target ej5
 ej5_EXTERNAL_OBJECTS =
 
 src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.o
+src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o
+src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/Rental.c.o
+src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/Client.c.o
+src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o
 src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/build.make
 src/Ex5/libej5.a: src/Ex5/CMakeFiles/ej5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libej5.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C static library libej5.a"
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && $(CMAKE_COMMAND) -P CMakeFiles/ej5.dir/cmake_clean_target.cmake
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ej5.dir/link.txt --verbose=$(VERBOSE)
 
@@ -101,6 +205,10 @@ src/Ex5/CMakeFiles/ej5.dir/build: src/Ex5/libej5.a
 .PHONY : src/Ex5/CMakeFiles/ej5.dir/build
 
 src/Ex5/CMakeFiles/ej5.dir/requires: src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.o.requires
+src/Ex5/CMakeFiles/ej5.dir/requires: src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o.requires
+src/Ex5/CMakeFiles/ej5.dir/requires: src/Ex5/CMakeFiles/ej5.dir/Rental.c.o.requires
+src/Ex5/CMakeFiles/ej5.dir/requires: src/Ex5/CMakeFiles/ej5.dir/Client.c.o.requires
+src/Ex5/CMakeFiles/ej5.dir/requires: src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o.requires
 
 .PHONY : src/Ex5/CMakeFiles/ej5.dir/requires
 

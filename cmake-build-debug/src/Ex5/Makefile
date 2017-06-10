@@ -125,6 +125,60 @@ ej5/fast:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/build
 .PHONY : ej5/fast
 
+Administrator.o: Administrator.c.o
+
+.PHONY : Administrator.o
+
+# target to build an object file
+Administrator.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o
+.PHONY : Administrator.c.o
+
+Administrator.i: Administrator.c.i
+
+.PHONY : Administrator.i
+
+# target to preprocess a source file
+Administrator.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.i
+.PHONY : Administrator.c.i
+
+Administrator.s: Administrator.c.s
+
+.PHONY : Administrator.s
+
+# target to generate assembly for a file
+Administrator.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.s
+.PHONY : Administrator.c.s
+
+Client.o: Client.c.o
+
+.PHONY : Client.o
+
+# target to build an object file
+Client.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.o
+.PHONY : Client.c.o
+
+Client.i: Client.c.i
+
+.PHONY : Client.i
+
+# target to preprocess a source file
+Client.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.i
+.PHONY : Client.c.i
+
+Client.s: Client.c.s
+
+.PHONY : Client.s
+
+# target to generate assembly for a file
+Client.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.s
+.PHONY : Client.c.s
+
 EJ5Test.o: EJ5Test.c.o
 
 .PHONY : EJ5Test.o
@@ -152,6 +206,60 @@ EJ5Test.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.s
 .PHONY : EJ5Test.c.s
 
+Rental.o: Rental.c.o
+
+.PHONY : Rental.o
+
+# target to build an object file
+Rental.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.o
+.PHONY : Rental.c.o
+
+Rental.i: Rental.c.i
+
+.PHONY : Rental.i
+
+# target to preprocess a source file
+Rental.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.i
+.PHONY : Rental.c.i
+
+Rental.s: Rental.c.s
+
+.PHONY : Rental.s
+
+# target to generate assembly for a file
+Rental.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.s
+.PHONY : Rental.c.s
+
+Surplus.o: Surplus.c.o
+
+.PHONY : Surplus.o
+
+# target to build an object file
+Surplus.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o
+.PHONY : Surplus.c.o
+
+Surplus.i: Surplus.c.i
+
+.PHONY : Surplus.i
+
+# target to preprocess a source file
+Surplus.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.i
+.PHONY : Surplus.c.i
+
+Surplus.s: Surplus.c.s
+
+.PHONY : Surplus.s
+
+# target to generate assembly for a file
+Surplus.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.s
+.PHONY : Surplus.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -161,9 +269,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ej5"
+	@echo "... Administrator.o"
+	@echo "... Administrator.i"
+	@echo "... Administrator.s"
+	@echo "... Client.o"
+	@echo "... Client.i"
+	@echo "... Client.s"
 	@echo "... EJ5Test.o"
 	@echo "... EJ5Test.i"
 	@echo "... EJ5Test.s"
+	@echo "... Rental.o"
+	@echo "... Rental.i"
+	@echo "... Rental.s"
+	@echo "... Surplus.o"
+	@echo "... Surplus.i"
+	@echo "... Surplus.s"
 .PHONY : help
 
 

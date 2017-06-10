@@ -1,2 +1,2 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libej5.a  CMakeFiles/ej5.dir/EJ5Test.c.o
+/Library/Developer/CommandLineTools/usr/bin/ar qc libej5.a  CMakeFiles/ej5.dir/EJ5Test.c.o CMakeFiles/ej5.dir/Surplus.c.o CMakeFiles/ej5.dir/Rental.c.o CMakeFiles/ej5.dir/Client.c.o CMakeFiles/ej5.dir/Administrator.c.o
 /Library/Developer/CommandLineTools/usr/bin/ranlib libej5.a

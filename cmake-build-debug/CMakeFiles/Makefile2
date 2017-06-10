@@ -98,7 +98,7 @@ src/preinstall: src/Ex5/preinstall
 src/CMakeFiles/exe.dir/all:
 	$(MAKE) -f src/CMakeFiles/exe.dir/build.make src/CMakeFiles/exe.dir/depend
 	$(MAKE) -f src/CMakeFiles/exe.dir/build.make src/CMakeFiles/exe.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target exe"
 .PHONY : src/CMakeFiles/exe.dir/all
 
 # Include target in all.
@@ -373,7 +373,7 @@ src/Ex5/preinstall:
 src/Ex5/CMakeFiles/ej5.dir/all:
 	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/depend
 	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target ej5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=33,34,35,36,37,38 "Built target ej5"
 .PHONY : src/Ex5/CMakeFiles/ej5.dir/all
 
 # Include target in all.
@@ -383,7 +383,7 @@ all: src/Ex5/CMakeFiles/ej5.dir/all
 
 # Build rule for subdir invocation for target.
 src/Ex5/CMakeFiles/ej5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 src/Ex5/CMakeFiles/ej5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles 0
 .PHONY : src/Ex5/CMakeFiles/ej5.dir/rule

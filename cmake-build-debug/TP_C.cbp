@@ -458,7 +458,31 @@
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h">
 			<Option target="ej4"/>
 		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.c">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.h">
+			<Option target="ej5"/>
+		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/EJ5Test.c">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.c">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.h">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Surplus.c">
+			<Option target="ej5"/>
+		</Unit>
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Surplus.h">
 			<Option target="ej5"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/main.c">
