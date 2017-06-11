@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libex2.a  CMakeFiles/ex2.dir/Camera.c.o CMakeFiles/ex2.dir/Accessory.c.o CMakeFiles/ex2.dir/Manufacturer.c.o CMakeFiles/ex2.dir/Provider.c.o CMakeFiles/ex2.dir/Sale.c.o CMakeFiles/ex2.dir/LineSale.c.o CMakeFiles/ex2.dir/RegisteredUser.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libex2.a

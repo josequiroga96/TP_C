@@ -210,6 +210,21 @@ ej4_LIB_DEPENDS:STATIC=
 //Dependencies for target
 ej5_LIB_DEPENDS:STATIC=
 
+//Dependencies for target
+ex1_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+ex2_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+ex3_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+ex4_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+ex5_LIB_DEPENDS:STATIC=
+
 
 ########################
 # INTERNAL cache entries

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libex4.a  CMakeFiles/ex4.dir/Room.c.o CMakeFiles/ex4.dir/Reservation.c.o CMakeFiles/ex4.dir/Bill.c.o CMakeFiles/ex4.dir/Client.c.o CMakeFiles/ex4.dir/Receptionist.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libex4.a

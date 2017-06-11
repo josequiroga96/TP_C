@@ -61,9 +61,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "src/CMakeFiles/exe.dir/DependInfo.cmake"
-  "src/Ex1/CMakeFiles/ej1.dir/DependInfo.cmake"
-  "src/Ex2/CMakeFiles/ej2.dir/DependInfo.cmake"
-  "src/Ex3/CMakeFiles/ej3.dir/DependInfo.cmake"
-  "src/Ex4/CMakeFiles/ej4.dir/DependInfo.cmake"
-  "src/Ex5/CMakeFiles/ej5.dir/DependInfo.cmake"
+  "src/Ex1/CMakeFiles/ex1.dir/DependInfo.cmake"
+  "src/Ex2/CMakeFiles/ex2.dir/DependInfo.cmake"
+  "src/Ex3/CMakeFiles/ex3.dir/DependInfo.cmake"
+  "src/Ex4/CMakeFiles/ex4.dir/DependInfo.cmake"
+  "src/Ex5/CMakeFiles/ex5.dir/DependInfo.cmake"
   )

@@ -124,69 +124,69 @@ exe/fast:
 .PHONY : exe/fast
 
 #=============================================================================
-# Target rules for targets named ej1
+# Target rules for targets named ex1
 
 # Build rule for target.
-ej1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ej1
-.PHONY : ej1
+ex1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex1
+.PHONY : ex1
 
 # fast build rule for target.
-ej1/fast:
-	$(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/build
-.PHONY : ej1/fast
+ex1/fast:
+	$(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/build
+.PHONY : ex1/fast
 
 #=============================================================================
-# Target rules for targets named ej2
+# Target rules for targets named ex2
 
 # Build rule for target.
-ej2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ej2
-.PHONY : ej2
+ex2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2
+.PHONY : ex2
 
 # fast build rule for target.
-ej2/fast:
-	$(MAKE) -f src/Ex2/CMakeFiles/ej2.dir/build.make src/Ex2/CMakeFiles/ej2.dir/build
-.PHONY : ej2/fast
+ex2/fast:
+	$(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/build
+.PHONY : ex2/fast
 
 #=============================================================================
-# Target rules for targets named ej3
+# Target rules for targets named ex3
 
 # Build rule for target.
-ej3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ej3
-.PHONY : ej3
+ex3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex3
+.PHONY : ex3
 
 # fast build rule for target.
-ej3/fast:
-	$(MAKE) -f src/Ex3/CMakeFiles/ej3.dir/build.make src/Ex3/CMakeFiles/ej3.dir/build
-.PHONY : ej3/fast
+ex3/fast:
+	$(MAKE) -f src/Ex3/CMakeFiles/ex3.dir/build.make src/Ex3/CMakeFiles/ex3.dir/build
+.PHONY : ex3/fast
 
 #=============================================================================
-# Target rules for targets named ej4
+# Target rules for targets named ex4
 
 # Build rule for target.
-ej4: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ej4
-.PHONY : ej4
+ex4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex4
+.PHONY : ex4
 
 # fast build rule for target.
-ej4/fast:
-	$(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/build
-.PHONY : ej4/fast
+ex4/fast:
+	$(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/build
+.PHONY : ex4/fast
 
 #=============================================================================
-# Target rules for targets named ej5
+# Target rules for targets named ex5
 
 # Build rule for target.
-ej5: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ej5
-.PHONY : ej5
+ex5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex5
+.PHONY : ex5
 
 # fast build rule for target.
-ej5/fast:
-	$(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/build
-.PHONY : ej5/fast
+ex5/fast:
+	$(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/build
+.PHONY : ex5/fast
 
 # Help Target
 help:
@@ -197,11 +197,11 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... exe"
-	@echo "... ej1"
-	@echo "... ej2"
-	@echo "... ej3"
-	@echo "... ej4"
-	@echo "... ej5"
+	@echo "... ex1"
+	@echo "... ex2"
+	@echo "... ex3"
+	@echo "... ex4"
+	@echo "... ex5"
 .PHONY : help
 
 

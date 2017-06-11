@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libex3.a  CMakeFiles/ex3.dir/Material.c.o CMakeFiles/ex3.dir/Borrowing.c.o CMakeFiles/ex3.dir/Person.c.o CMakeFiles/ex3.dir/Library.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libex3.a

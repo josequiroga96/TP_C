@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libex1.a  CMakeFiles/ex1.dir/HouseholdAppliance.c.o CMakeFiles/ex1.dir/Catalogue.c.o CMakeFiles/ex1.dir/Manufacturer.c.o CMakeFiles/ex1.dir/Provider.c.o CMakeFiles/ex1.dir/LineCart.c.o CMakeFiles/ex1.dir/Cart.c.o CMakeFiles/ex1.dir/LineTicket.c.o CMakeFiles/ex1.dir/Ticket.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libex1.a

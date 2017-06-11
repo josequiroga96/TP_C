@@ -111,19 +111,19 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-src/Ex5/CMakeFiles/ej5.dir/rule:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 src/Ex5/CMakeFiles/ej5.dir/rule
-.PHONY : src/Ex5/CMakeFiles/ej5.dir/rule
+src/Ex5/CMakeFiles/ex5.dir/rule:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 src/Ex5/CMakeFiles/ex5.dir/rule
+.PHONY : src/Ex5/CMakeFiles/ex5.dir/rule
 
 # Convenience name for target.
-ej5: src/Ex5/CMakeFiles/ej5.dir/rule
+ex5: src/Ex5/CMakeFiles/ex5.dir/rule
 
-.PHONY : ej5
+.PHONY : ex5
 
 # fast build rule for target.
-ej5/fast:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/build
-.PHONY : ej5/fast
+ex5/fast:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/build
+.PHONY : ex5/fast
 
 Administrator.o: Administrator.c.o
 
@@ -131,7 +131,7 @@ Administrator.o: Administrator.c.o
 
 # target to build an object file
 Administrator.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o
 .PHONY : Administrator.c.o
 
 Administrator.i: Administrator.c.i
@@ -140,7 +140,7 @@ Administrator.i: Administrator.c.i
 
 # target to preprocess a source file
 Administrator.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Administrator.c.i
 .PHONY : Administrator.c.i
 
 Administrator.s: Administrator.c.s
@@ -149,7 +149,7 @@ Administrator.s: Administrator.c.s
 
 # target to generate assembly for a file
 Administrator.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Administrator.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Administrator.c.s
 .PHONY : Administrator.c.s
 
 Client.o: Client.c.o
@@ -158,7 +158,7 @@ Client.o: Client.c.o
 
 # target to build an object file
 Client.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.o
 .PHONY : Client.c.o
 
 Client.i: Client.c.i
@@ -167,7 +167,7 @@ Client.i: Client.c.i
 
 # target to preprocess a source file
 Client.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.i
 .PHONY : Client.c.i
 
 Client.s: Client.c.s
@@ -176,35 +176,8 @@ Client.s: Client.c.s
 
 # target to generate assembly for a file
 Client.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Client.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.s
 .PHONY : Client.c.s
-
-EJ5Test.o: EJ5Test.c.o
-
-.PHONY : EJ5Test.o
-
-# target to build an object file
-EJ5Test.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.o
-.PHONY : EJ5Test.c.o
-
-EJ5Test.i: EJ5Test.c.i
-
-.PHONY : EJ5Test.i
-
-# target to preprocess a source file
-EJ5Test.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.i
-.PHONY : EJ5Test.c.i
-
-EJ5Test.s: EJ5Test.c.s
-
-.PHONY : EJ5Test.s
-
-# target to generate assembly for a file
-EJ5Test.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/EJ5Test.c.s
-.PHONY : EJ5Test.c.s
 
 Rental.o: Rental.c.o
 
@@ -212,7 +185,7 @@ Rental.o: Rental.c.o
 
 # target to build an object file
 Rental.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Rental.c.o
 .PHONY : Rental.c.o
 
 Rental.i: Rental.c.i
@@ -221,7 +194,7 @@ Rental.i: Rental.c.i
 
 # target to preprocess a source file
 Rental.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Rental.c.i
 .PHONY : Rental.c.i
 
 Rental.s: Rental.c.s
@@ -230,7 +203,7 @@ Rental.s: Rental.c.s
 
 # target to generate assembly for a file
 Rental.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Rental.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Rental.c.s
 .PHONY : Rental.c.s
 
 Surplus.o: Surplus.c.o
@@ -239,7 +212,7 @@ Surplus.o: Surplus.c.o
 
 # target to build an object file
 Surplus.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Surplus.c.o
 .PHONY : Surplus.c.o
 
 Surplus.i: Surplus.c.i
@@ -248,7 +221,7 @@ Surplus.i: Surplus.c.i
 
 # target to preprocess a source file
 Surplus.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Surplus.c.i
 .PHONY : Surplus.c.i
 
 Surplus.s: Surplus.c.s
@@ -257,7 +230,7 @@ Surplus.s: Surplus.c.s
 
 # target to generate assembly for a file
 Surplus.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ej5.dir/build.make src/Ex5/CMakeFiles/ej5.dir/Surplus.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Surplus.c.s
 .PHONY : Surplus.c.s
 
 # Help Target
@@ -268,16 +241,13 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... ej5"
+	@echo "... ex5"
 	@echo "... Administrator.o"
 	@echo "... Administrator.i"
 	@echo "... Administrator.s"
 	@echo "... Client.o"
 	@echo "... Client.i"
 	@echo "... Client.s"
-	@echo "... EJ5Test.o"
-	@echo "... EJ5Test.i"
-	@echo "... EJ5Test.s"
 	@echo "... Rental.o"
 	@echo "... Rental.i"
 	@echo "... Rental.s"

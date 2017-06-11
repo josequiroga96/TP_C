@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exe.dir/main.c.o  -o exe -lEx1 -lEx2 -lEx3 -lEx4 -lEx5 
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exe.dir/main.c.o  -o exe Ex1/libex1.a Ex2/libex2.a Ex3/libex3.a Ex4/libex4.a Ex5/libex5.a 

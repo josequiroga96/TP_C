@@ -111,19 +111,19 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-src/Ex1/CMakeFiles/ej1.dir/rule:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 src/Ex1/CMakeFiles/ej1.dir/rule
-.PHONY : src/Ex1/CMakeFiles/ej1.dir/rule
+src/Ex1/CMakeFiles/ex1.dir/rule:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 src/Ex1/CMakeFiles/ex1.dir/rule
+.PHONY : src/Ex1/CMakeFiles/ex1.dir/rule
 
 # Convenience name for target.
-ej1: src/Ex1/CMakeFiles/ej1.dir/rule
+ex1: src/Ex1/CMakeFiles/ex1.dir/rule
 
-.PHONY : ej1
+.PHONY : ex1
 
 # fast build rule for target.
-ej1/fast:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/build
-.PHONY : ej1/fast
+ex1/fast:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/build
+.PHONY : ex1/fast
 
 Cart.o: Cart.c.o
 
@@ -131,7 +131,7 @@ Cart.o: Cart.c.o
 
 # target to build an object file
 Cart.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Cart.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Cart.c.o
 .PHONY : Cart.c.o
 
 Cart.i: Cart.c.i
@@ -140,7 +140,7 @@ Cart.i: Cart.c.i
 
 # target to preprocess a source file
 Cart.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Cart.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Cart.c.i
 .PHONY : Cart.c.i
 
 Cart.s: Cart.c.s
@@ -149,7 +149,7 @@ Cart.s: Cart.c.s
 
 # target to generate assembly for a file
 Cart.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Cart.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Cart.c.s
 .PHONY : Cart.c.s
 
 Catalogue.o: Catalogue.c.o
@@ -158,7 +158,7 @@ Catalogue.o: Catalogue.c.o
 
 # target to build an object file
 Catalogue.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Catalogue.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Catalogue.c.o
 .PHONY : Catalogue.c.o
 
 Catalogue.i: Catalogue.c.i
@@ -167,7 +167,7 @@ Catalogue.i: Catalogue.c.i
 
 # target to preprocess a source file
 Catalogue.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Catalogue.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Catalogue.c.i
 .PHONY : Catalogue.c.i
 
 Catalogue.s: Catalogue.c.s
@@ -176,35 +176,8 @@ Catalogue.s: Catalogue.c.s
 
 # target to generate assembly for a file
 Catalogue.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Catalogue.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Catalogue.c.s
 .PHONY : Catalogue.c.s
-
-EJ1Test.o: EJ1Test.c.o
-
-.PHONY : EJ1Test.o
-
-# target to build an object file
-EJ1Test.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/EJ1Test.c.o
-.PHONY : EJ1Test.c.o
-
-EJ1Test.i: EJ1Test.c.i
-
-.PHONY : EJ1Test.i
-
-# target to preprocess a source file
-EJ1Test.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/EJ1Test.c.i
-.PHONY : EJ1Test.c.i
-
-EJ1Test.s: EJ1Test.c.s
-
-.PHONY : EJ1Test.s
-
-# target to generate assembly for a file
-EJ1Test.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/EJ1Test.c.s
-.PHONY : EJ1Test.c.s
 
 HouseholdAppliance.o: HouseholdAppliance.c.o
 
@@ -212,7 +185,7 @@ HouseholdAppliance.o: HouseholdAppliance.c.o
 
 # target to build an object file
 HouseholdAppliance.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/HouseholdAppliance.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/HouseholdAppliance.c.o
 .PHONY : HouseholdAppliance.c.o
 
 HouseholdAppliance.i: HouseholdAppliance.c.i
@@ -221,7 +194,7 @@ HouseholdAppliance.i: HouseholdAppliance.c.i
 
 # target to preprocess a source file
 HouseholdAppliance.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/HouseholdAppliance.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/HouseholdAppliance.c.i
 .PHONY : HouseholdAppliance.c.i
 
 HouseholdAppliance.s: HouseholdAppliance.c.s
@@ -230,7 +203,7 @@ HouseholdAppliance.s: HouseholdAppliance.c.s
 
 # target to generate assembly for a file
 HouseholdAppliance.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/HouseholdAppliance.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/HouseholdAppliance.c.s
 .PHONY : HouseholdAppliance.c.s
 
 LineCart.o: LineCart.c.o
@@ -239,7 +212,7 @@ LineCart.o: LineCart.c.o
 
 # target to build an object file
 LineCart.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/LineCart.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/LineCart.c.o
 .PHONY : LineCart.c.o
 
 LineCart.i: LineCart.c.i
@@ -248,7 +221,7 @@ LineCart.i: LineCart.c.i
 
 # target to preprocess a source file
 LineCart.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/LineCart.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/LineCart.c.i
 .PHONY : LineCart.c.i
 
 LineCart.s: LineCart.c.s
@@ -257,7 +230,7 @@ LineCart.s: LineCart.c.s
 
 # target to generate assembly for a file
 LineCart.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/LineCart.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/LineCart.c.s
 .PHONY : LineCart.c.s
 
 LineTicket.o: LineTicket.c.o
@@ -266,7 +239,7 @@ LineTicket.o: LineTicket.c.o
 
 # target to build an object file
 LineTicket.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/LineTicket.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/LineTicket.c.o
 .PHONY : LineTicket.c.o
 
 LineTicket.i: LineTicket.c.i
@@ -275,7 +248,7 @@ LineTicket.i: LineTicket.c.i
 
 # target to preprocess a source file
 LineTicket.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/LineTicket.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/LineTicket.c.i
 .PHONY : LineTicket.c.i
 
 LineTicket.s: LineTicket.c.s
@@ -284,7 +257,7 @@ LineTicket.s: LineTicket.c.s
 
 # target to generate assembly for a file
 LineTicket.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/LineTicket.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/LineTicket.c.s
 .PHONY : LineTicket.c.s
 
 Manufacturer.o: Manufacturer.c.o
@@ -293,7 +266,7 @@ Manufacturer.o: Manufacturer.c.o
 
 # target to build an object file
 Manufacturer.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Manufacturer.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Manufacturer.c.o
 .PHONY : Manufacturer.c.o
 
 Manufacturer.i: Manufacturer.c.i
@@ -302,7 +275,7 @@ Manufacturer.i: Manufacturer.c.i
 
 # target to preprocess a source file
 Manufacturer.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Manufacturer.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Manufacturer.c.i
 .PHONY : Manufacturer.c.i
 
 Manufacturer.s: Manufacturer.c.s
@@ -311,7 +284,7 @@ Manufacturer.s: Manufacturer.c.s
 
 # target to generate assembly for a file
 Manufacturer.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Manufacturer.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Manufacturer.c.s
 .PHONY : Manufacturer.c.s
 
 Provider.o: Provider.c.o
@@ -320,7 +293,7 @@ Provider.o: Provider.c.o
 
 # target to build an object file
 Provider.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Provider.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Provider.c.o
 .PHONY : Provider.c.o
 
 Provider.i: Provider.c.i
@@ -329,7 +302,7 @@ Provider.i: Provider.c.i
 
 # target to preprocess a source file
 Provider.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Provider.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Provider.c.i
 .PHONY : Provider.c.i
 
 Provider.s: Provider.c.s
@@ -338,7 +311,7 @@ Provider.s: Provider.c.s
 
 # target to generate assembly for a file
 Provider.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Provider.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Provider.c.s
 .PHONY : Provider.c.s
 
 Ticket.o: Ticket.c.o
@@ -347,7 +320,7 @@ Ticket.o: Ticket.c.o
 
 # target to build an object file
 Ticket.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Ticket.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Ticket.c.o
 .PHONY : Ticket.c.o
 
 Ticket.i: Ticket.c.i
@@ -356,7 +329,7 @@ Ticket.i: Ticket.c.i
 
 # target to preprocess a source file
 Ticket.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Ticket.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Ticket.c.i
 .PHONY : Ticket.c.i
 
 Ticket.s: Ticket.c.s
@@ -365,7 +338,7 @@ Ticket.s: Ticket.c.s
 
 # target to generate assembly for a file
 Ticket.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ej1.dir/build.make src/Ex1/CMakeFiles/ej1.dir/Ticket.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex1/CMakeFiles/ex1.dir/build.make src/Ex1/CMakeFiles/ex1.dir/Ticket.c.s
 .PHONY : Ticket.c.s
 
 # Help Target
@@ -376,16 +349,13 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... ej1"
+	@echo "... ex1"
 	@echo "... Cart.o"
 	@echo "... Cart.i"
 	@echo "... Cart.s"
 	@echo "... Catalogue.o"
 	@echo "... Catalogue.i"
 	@echo "... Catalogue.s"
-	@echo "... EJ1Test.o"
-	@echo "... EJ1Test.i"
-	@echo "... EJ1Test.s"
 	@echo "... HouseholdAppliance.o"
 	@echo "... HouseholdAppliance.i"
 	@echo "... HouseholdAppliance.s"

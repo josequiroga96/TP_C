@@ -111,19 +111,19 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-src/Ex4/CMakeFiles/ej4.dir/rule:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 src/Ex4/CMakeFiles/ej4.dir/rule
-.PHONY : src/Ex4/CMakeFiles/ej4.dir/rule
+src/Ex4/CMakeFiles/ex4.dir/rule:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 src/Ex4/CMakeFiles/ex4.dir/rule
+.PHONY : src/Ex4/CMakeFiles/ex4.dir/rule
 
 # Convenience name for target.
-ej4: src/Ex4/CMakeFiles/ej4.dir/rule
+ex4: src/Ex4/CMakeFiles/ex4.dir/rule
 
-.PHONY : ej4
+.PHONY : ex4
 
 # fast build rule for target.
-ej4/fast:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/build
-.PHONY : ej4/fast
+ex4/fast:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/build
+.PHONY : ex4/fast
 
 Bill.o: Bill.c.o
 
@@ -131,7 +131,7 @@ Bill.o: Bill.c.o
 
 # target to build an object file
 Bill.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Bill.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Bill.c.o
 .PHONY : Bill.c.o
 
 Bill.i: Bill.c.i
@@ -140,7 +140,7 @@ Bill.i: Bill.c.i
 
 # target to preprocess a source file
 Bill.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Bill.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Bill.c.i
 .PHONY : Bill.c.i
 
 Bill.s: Bill.c.s
@@ -149,7 +149,7 @@ Bill.s: Bill.c.s
 
 # target to generate assembly for a file
 Bill.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Bill.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Bill.c.s
 .PHONY : Bill.c.s
 
 Client.o: Client.c.o
@@ -158,7 +158,7 @@ Client.o: Client.c.o
 
 # target to build an object file
 Client.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Client.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Client.c.o
 .PHONY : Client.c.o
 
 Client.i: Client.c.i
@@ -167,7 +167,7 @@ Client.i: Client.c.i
 
 # target to preprocess a source file
 Client.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Client.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Client.c.i
 .PHONY : Client.c.i
 
 Client.s: Client.c.s
@@ -176,35 +176,8 @@ Client.s: Client.c.s
 
 # target to generate assembly for a file
 Client.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Client.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Client.c.s
 .PHONY : Client.c.s
-
-EJ4Test.o: EJ4Test.c.o
-
-.PHONY : EJ4Test.o
-
-# target to build an object file
-EJ4Test.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/EJ4Test.c.o
-.PHONY : EJ4Test.c.o
-
-EJ4Test.i: EJ4Test.c.i
-
-.PHONY : EJ4Test.i
-
-# target to preprocess a source file
-EJ4Test.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/EJ4Test.c.i
-.PHONY : EJ4Test.c.i
-
-EJ4Test.s: EJ4Test.c.s
-
-.PHONY : EJ4Test.s
-
-# target to generate assembly for a file
-EJ4Test.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/EJ4Test.c.s
-.PHONY : EJ4Test.c.s
 
 Receptionist.o: Receptionist.c.o
 
@@ -212,7 +185,7 @@ Receptionist.o: Receptionist.c.o
 
 # target to build an object file
 Receptionist.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Receptionist.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Receptionist.c.o
 .PHONY : Receptionist.c.o
 
 Receptionist.i: Receptionist.c.i
@@ -221,7 +194,7 @@ Receptionist.i: Receptionist.c.i
 
 # target to preprocess a source file
 Receptionist.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Receptionist.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Receptionist.c.i
 .PHONY : Receptionist.c.i
 
 Receptionist.s: Receptionist.c.s
@@ -230,7 +203,7 @@ Receptionist.s: Receptionist.c.s
 
 # target to generate assembly for a file
 Receptionist.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Receptionist.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Receptionist.c.s
 .PHONY : Receptionist.c.s
 
 Reservation.o: Reservation.c.o
@@ -239,7 +212,7 @@ Reservation.o: Reservation.c.o
 
 # target to build an object file
 Reservation.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Reservation.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Reservation.c.o
 .PHONY : Reservation.c.o
 
 Reservation.i: Reservation.c.i
@@ -248,7 +221,7 @@ Reservation.i: Reservation.c.i
 
 # target to preprocess a source file
 Reservation.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Reservation.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Reservation.c.i
 .PHONY : Reservation.c.i
 
 Reservation.s: Reservation.c.s
@@ -257,7 +230,7 @@ Reservation.s: Reservation.c.s
 
 # target to generate assembly for a file
 Reservation.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Reservation.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Reservation.c.s
 .PHONY : Reservation.c.s
 
 Room.o: Room.c.o
@@ -266,7 +239,7 @@ Room.o: Room.c.o
 
 # target to build an object file
 Room.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Room.c.o
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Room.c.o
 .PHONY : Room.c.o
 
 Room.i: Room.c.i
@@ -275,7 +248,7 @@ Room.i: Room.c.i
 
 # target to preprocess a source file
 Room.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Room.c.i
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Room.c.i
 .PHONY : Room.c.i
 
 Room.s: Room.c.s
@@ -284,7 +257,7 @@ Room.s: Room.c.s
 
 # target to generate assembly for a file
 Room.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ej4.dir/build.make src/Ex4/CMakeFiles/ej4.dir/Room.c.s
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex4/CMakeFiles/ex4.dir/build.make src/Ex4/CMakeFiles/ex4.dir/Room.c.s
 .PHONY : Room.c.s
 
 # Help Target
@@ -295,16 +268,13 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... ej4"
+	@echo "... ex4"
 	@echo "... Bill.o"
 	@echo "... Bill.i"
 	@echo "... Bill.s"
 	@echo "... Client.o"
 	@echo "... Client.i"
 	@echo "... Client.s"
-	@echo "... EJ4Test.o"
-	@echo "... EJ4Test.i"
-	@echo "... EJ4Test.s"
 	@echo "... Receptionist.o"
 	@echo "... Receptionist.i"
 	@echo "... Receptionist.s"
