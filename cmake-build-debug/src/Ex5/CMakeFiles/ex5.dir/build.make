@@ -105,28 +105,28 @@ src/Ex5/CMakeFiles/ex5.dir/Rental.c.o.provides: src/Ex5/CMakeFiles/ex5.dir/Renta
 src/Ex5/CMakeFiles/ex5.dir/Rental.c.o.provides.build: src/Ex5/CMakeFiles/ex5.dir/Rental.c.o
 
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o: src/Ex5/CMakeFiles/ex5.dir/flags.make
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Client.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex5/CMakeFiles/ex5.dir/Client.c.o"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex5.dir/Client.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o: src/Ex5/CMakeFiles/ex5.dir/flags.make
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o: ../src/Ex5/Client2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex5/CMakeFiles/ex5.dir/Client2.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex5.dir/Client2.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.c
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex5.dir/Client.c.i"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c > CMakeFiles/ex5.dir/Client.c.i
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex5.dir/Client2.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.c > CMakeFiles/ex5.dir/Client2.c.i
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex5.dir/Client.c.s"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c -o CMakeFiles/ex5.dir/Client.c.s
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex5.dir/Client2.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.c -o CMakeFiles/ex5.dir/Client2.c.s
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o.requires:
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.requires:
 
-.PHONY : src/Ex5/CMakeFiles/ex5.dir/Client.c.o.requires
+.PHONY : src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.requires
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o.provides: src/Ex5/CMakeFiles/ex5.dir/Client.c.o.requires
-	$(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.o.provides.build
-.PHONY : src/Ex5/CMakeFiles/ex5.dir/Client.c.o.provides
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.provides: src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.requires
+	$(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.provides.build
+.PHONY : src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.provides
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o.provides.build: src/Ex5/CMakeFiles/ex5.dir/Client.c.o
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.provides.build: src/Ex5/CMakeFiles/ex5.dir/Client2.c.o
 
 
 src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o: src/Ex5/CMakeFiles/ex5.dir/flags.make
@@ -157,7 +157,7 @@ src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o.provides.build: src/Ex5/CMakeFiles/
 ex5_OBJECTS = \
 "CMakeFiles/ex5.dir/Surplus.c.o" \
 "CMakeFiles/ex5.dir/Rental.c.o" \
-"CMakeFiles/ex5.dir/Client.c.o" \
+"CMakeFiles/ex5.dir/Client2.c.o" \
 "CMakeFiles/ex5.dir/Administrator.c.o"
 
 # External object files for target ex5
@@ -165,7 +165,7 @@ ex5_EXTERNAL_OBJECTS =
 
 src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/Surplus.c.o
 src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/Rental.c.o
-src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/Client.c.o
+src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/Client2.c.o
 src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o
 src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/build.make
 src/Ex5/libex5.a: src/Ex5/CMakeFiles/ex5.dir/link.txt
@@ -180,7 +180,7 @@ src/Ex5/CMakeFiles/ex5.dir/build: src/Ex5/libex5.a
 
 src/Ex5/CMakeFiles/ex5.dir/requires: src/Ex5/CMakeFiles/ex5.dir/Surplus.c.o.requires
 src/Ex5/CMakeFiles/ex5.dir/requires: src/Ex5/CMakeFiles/ex5.dir/Rental.c.o.requires
-src/Ex5/CMakeFiles/ex5.dir/requires: src/Ex5/CMakeFiles/ex5.dir/Client.c.o.requires
+src/Ex5/CMakeFiles/ex5.dir/requires: src/Ex5/CMakeFiles/ex5.dir/Client2.c.o.requires
 src/Ex5/CMakeFiles/ex5.dir/requires: src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o.requires
 
 .PHONY : src/Ex5/CMakeFiles/ex5.dir/requires

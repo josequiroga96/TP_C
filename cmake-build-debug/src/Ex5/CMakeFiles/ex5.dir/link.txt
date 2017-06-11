@@ -1,2 +1,2 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libex5.a  CMakeFiles/ex5.dir/Surplus.c.o CMakeFiles/ex5.dir/Rental.c.o CMakeFiles/ex5.dir/Client.c.o CMakeFiles/ex5.dir/Administrator.c.o
+/Library/Developer/CommandLineTools/usr/bin/ar qc libex5.a  CMakeFiles/ex5.dir/Surplus.c.o CMakeFiles/ex5.dir/Rental.c.o CMakeFiles/ex5.dir/Client2.c.o CMakeFiles/ex5.dir/Administrator.c.o
 /Library/Developer/CommandLineTools/usr/bin/ranlib libex5.a

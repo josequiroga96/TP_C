@@ -20,5 +20,10 @@ src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Borrowing.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Library.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Material.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Person.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Bill.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Client.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Receptionist.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Reservation.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Room.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/main.c
 

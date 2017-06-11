@@ -3,13 +3,13 @@
 
 src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o: ../src/Ex5/Administrator.c
 src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o: ../src/Ex5/Administrator.h
-src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o: ../src/Ex5/Client.h
+src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o: ../src/Ex5/Client2.h
 src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o: ../src/Ex5/Rental.h
 
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Administrator.h
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Client.c
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Client.h
-src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Rental.h
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o: ../src/Ex5/Administrator.h
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o: ../src/Ex5/Client2.c
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o: ../src/Ex5/Client2.h
+src/Ex5/CMakeFiles/ex5.dir/Client2.c.o: ../src/Ex5/Rental.h
 
 src/Ex5/CMakeFiles/ex5.dir/Rental.c.o: ../src/Ex5/Rental.c
 src/Ex5/CMakeFiles/ex5.dir/Rental.c.o: ../src/Ex5/Rental.h

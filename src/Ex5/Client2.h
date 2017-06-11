@@ -4,16 +4,16 @@
 
 #include "Rental.h"
 
-typedef struct client Client;
+typedef struct client2 Client2;
 
-struct client{
+struct client2{
     char* clientName;
     char* clientLastName;
     int clientID;
     Rental* rental;
 };
 
-Client* createClient(char* clientName, char* clientLastName, int clientID);
-void freeClient(Client* client);
+Client2* createClient2(char* clientName, char* clientLastName, int clientID);
+void freeClient2(Client2* client);
 
 #endif //TP_C_CLIENT_H

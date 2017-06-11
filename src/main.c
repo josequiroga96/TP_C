@@ -1,4 +1,5 @@
 
+#include <stdlib.h>
 #include "stdio.h"
 #include "Ex1/Manufacturer.h"
 #include "Ex1/Provider.h"
@@ -12,6 +13,9 @@
 #include "Ex2/RegisteredUser.h"
 #include "Ex3/Material.h"
 #include "Ex3/Library.h"
+#include "Ex4/Client.h"
+#include "Ex4/Room.h"
+#include "Ex4/Receptionist.h"
 
 
 static void testEx1(){
@@ -102,11 +106,36 @@ static void testEx3(){
 
     Borrowing* borrowing1 = make_Borrowing(library1, person1, 0, material1->code, "hjh", "jdjd");
 
+
     printf("\n");
 }
 
 static void testEx4(){
     printf("\n Exercise 4: \n");
+
+    Client* client1 = createClient("aja", "laslsa", 897);
+
+    Room* room1 = createRoom(1, "dksl");
+    Room* room2 = createRoom(2, "dksl");
+    Room* room3 = createRoom(3, "dksl");
+    Room* room4 = createRoom(4, "dksl");
+
+    Room** rooms = malloc(sizeof(Room*)*4);
+    rooms[0]= room1;
+    rooms[1]= room2;
+    rooms[2]= room3;
+    rooms[3]= room4;
+
+    Receptionist* receptionist1 = createReceptionist("kfskfs", "lkask", "kflf", 483, 342, rooms, 90);
+
+    Reservation* reservation1 = createReservation(1, client1->lastName, client1->clientID, 1);
+
+    Bill* bill1 = createBill(receptionist1->hotelName, client1->name, 12, receptionist1->hotelNit, client1->clientID, 89);
+
+    printf("Los id en la bill y reservation es: ");
+    printf("(%i; ", reservation1->clientID);
+    printf("%i)", bill1->clientID);
+    printf("\n");
 }
 
 static void testEx5(){

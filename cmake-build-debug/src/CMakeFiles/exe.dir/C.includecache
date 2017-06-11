@@ -84,7 +84,27 @@ Borrowing.h
 Material.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.h
 
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Bill.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Client.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Receptionist.h
+Room.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h
+Client.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Client.h
+Reservation.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Reservation.h
+Bill.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Bill.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Reservation.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h
+
 /Users/JoseRojas/Desktop/TP_C/src/main.c
+stdlib.h
+-
 stdio.h
 /Users/JoseRojas/Desktop/TP_C/src/stdio.h
 Ex1/Manufacturer.h
@@ -111,4 +131,10 @@ Ex3/Material.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.h
 Ex3/Library.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.h
+Ex4/Client.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Client.h
+Ex4/Room.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h
+Ex4/Receptionist.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex4/Receptionist.h
 

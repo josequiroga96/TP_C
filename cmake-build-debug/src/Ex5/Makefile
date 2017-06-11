@@ -152,32 +152,32 @@ Administrator.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Administrator.c.s
 .PHONY : Administrator.c.s
 
-Client.o: Client.c.o
+Client2.o: Client2.c.o
 
-.PHONY : Client.o
+.PHONY : Client2.o
 
 # target to build an object file
-Client.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.o
-.PHONY : Client.c.o
+Client2.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client2.c.o
+.PHONY : Client2.c.o
 
-Client.i: Client.c.i
+Client2.i: Client2.c.i
 
-.PHONY : Client.i
+.PHONY : Client2.i
 
 # target to preprocess a source file
-Client.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.i
-.PHONY : Client.c.i
+Client2.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client2.c.i
+.PHONY : Client2.c.i
 
-Client.s: Client.c.s
+Client2.s: Client2.c.s
 
-.PHONY : Client.s
+.PHONY : Client2.s
 
 # target to generate assembly for a file
-Client.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client.c.s
-.PHONY : Client.c.s
+Client2.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex5/CMakeFiles/ex5.dir/build.make src/Ex5/CMakeFiles/ex5.dir/Client2.c.s
+.PHONY : Client2.c.s
 
 Rental.o: Rental.c.o
 
@@ -245,9 +245,9 @@ help:
 	@echo "... Administrator.o"
 	@echo "... Administrator.i"
 	@echo "... Administrator.s"
-	@echo "... Client.o"
-	@echo "... Client.i"
-	@echo "... Client.s"
+	@echo "... Client2.o"
+	@echo "... Client2.i"
+	@echo "... Client2.s"
 	@echo "... Rental.o"
 	@echo "... Rental.i"
 	@echo "... Rental.s"

@@ -21,4 +21,9 @@ src/CMakeFiles/exe.dir/main.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex4/Bill.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex4/Client.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex4/Receptionist.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex4/Reservation.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h
  /Users/JoseRojas/Desktop/TP_C/src/main.c

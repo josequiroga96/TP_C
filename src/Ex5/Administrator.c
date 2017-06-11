@@ -24,12 +24,12 @@ Administrator* createAdministrator(char* administratorName, char* administratorL
     return result;
 }
 
-void registeredClient(Administrator* administrator, Client* client){
+void registeredClient(Administrator* administrator, Client2* client){
     administrator->clients[administrator->clientAmount]=client;
     administrator->clientAmount++;
 }
 
-Rental* rentalMovie(Administrator* administrator, Client* client, char* movieName, char* rentalDate, char* returnDate){
+Rental* rentalMovie(Administrator* administrator, Client2* client, char* movieName, char* rentalDate, char* returnDate){
     Rental* result = createRental(movieName, client->clientID,rentalDate, returnDate);
     administrator->rentedMovies[administrator->rMAmount]= movieName;
     administrator->rMAmount++;

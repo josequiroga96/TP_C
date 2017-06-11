@@ -452,10 +452,10 @@
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h">
 			<Option target="ex5"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.c">
 			<Option target="ex5"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.h">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h">
 			<Option target="ex5"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.c">

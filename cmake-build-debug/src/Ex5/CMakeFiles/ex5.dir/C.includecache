@@ -13,18 +13,18 @@ Administrator.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h
 
 /Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h
-Client.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.h
+Client2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.c
 stdlib.h
 -
-Client.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.h
+Client2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h
 Administrator.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h
 Rental.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.h
 

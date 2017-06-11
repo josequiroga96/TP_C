@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/CMakeFiles/ex5.dir/Administrator.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/CMakeFiles/ex5.dir/Client.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/CMakeFiles/ex5.dir/Client2.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/CMakeFiles/ex5.dir/Rental.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ex5/Surplus.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex5/CMakeFiles/ex5.dir/Surplus.c.o"
   )
