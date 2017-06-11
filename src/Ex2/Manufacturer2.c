@@ -1,9 +1,9 @@
 
 #include <stdlib.h>
-#include "Manufacturer.h"
+#include "Manufacturer2.h"
 
-Manufacturer* createManufacturer(char* name, int code){
-    Manufacturer* result = malloc(sizeof(Manufacturer));
+Manufacturer2* createManufacturer2(char* name, int code){
+    Manufacturer2* result = malloc(sizeof(Manufacturer2));
 
     result->name=name;
     result->code=code;
@@ -19,7 +19,7 @@ Accessory* makeAccessory(char* name, int code, int type, char* comment, int pric
     return createAccessory(name, code, type, comment, price);
 }
 
-void freeManufacturer(Manufacturer* manufacturer){
+void freeManufacturer(Manufacturer2* manufacturer){
     free(manufacturer->name);
     free(manufacturer);
 }

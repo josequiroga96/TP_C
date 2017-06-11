@@ -5,8 +5,11 @@
 #include "Ex1/Catalogue.h"
 #include "Ex1/LineCart.h"
 #include "Ex1/Cart.h"
+#include "Ex2/Manufacturer2.h"
+
 
 static int testEx1(){
+    printf("\n Exercise 1: \n");
     Manufacturer* manufacturer1 = createManufacturer("Juan", "Kitchen Builder", "San Martin 452", "Pilar", "www.kitchenbuilder.com", 1167325334, "Kitchen", "M01", 580);
     Manufacturer* manufacturer2 = createManufacturer("Marcelo", "Refrigerator Builder", "Av. Alsina 452", "Escobar", "www.refrigeratorbuilder.com", 1178263487, "Refrigerator", "M01", 680);
     Manufacturer* manufacturer3 = createManufacturer("Nahuel", "Microwave Builder", "Belgrano 452", "Lujan", "www.microwavebuilder.com", 1182466347, "Microwave", "M01", 480);
@@ -42,11 +45,21 @@ static int testEx1(){
     addLine(ticket1, lineTicket1);
 
     printf("El precio total del ticket es: ");
-    printf("%i \n", ticket1->lineTickets[0]->product->price);
+    printf("%i \n \n", ticket1->lineTickets[0]->product->price);
 }
-static void testEx2(){}
+
+static void testEx2(){
+    printf("\n Exercise 2: \n");
+
+    Manufacturer2* manufacturer21= createManufacturer2("Manuel", 8932);
+
+
+}
+
 static void testEx3(){}
+
 static void testEx4(){}
+
 static void testEx5(){}
 
 int main(){
