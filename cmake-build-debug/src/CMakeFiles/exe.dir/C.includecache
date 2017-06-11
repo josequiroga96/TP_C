@@ -102,6 +102,16 @@ Bill.h
 
 /Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h
 
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h
+Client2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h
+Rental.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Rental.h
+
 /Users/JoseRojas/Desktop/TP_C/src/main.c
 stdlib.h
 -
@@ -137,4 +147,8 @@ Ex4/Room.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex4/Room.h
 Ex4/Receptionist.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex4/Receptionist.h
+Ex5/Client2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Client2.h
+Ex5/Administrator.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex5/Administrator.h
 

@@ -1,6 +1,6 @@
 
-#ifndef TP_C_CLIENT_H
-#define TP_C_CLIENT_H
+#ifndef TP_C_CLIENT2_H
+#define TP_C_CLIENT2_H
 
 #include "Rental.h"
 
@@ -13,7 +13,7 @@ struct client2{
     Rental* rental;
 };
 
-Client2* createClient2(char* clientName, char* clientLastName, int clientID);
+Client2 * createClient2(char* clientName, char* clientLastName, int clientID);
 void freeClient2(Client2* client);
 
 #endif //TP_C_CLIENT_H

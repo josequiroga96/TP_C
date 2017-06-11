@@ -16,6 +16,8 @@
 #include "Ex4/Client.h"
 #include "Ex4/Room.h"
 #include "Ex4/Receptionist.h"
+#include "Ex5/Client2.h"
+#include "Ex5/Administrator.h"
 
 
 static void testEx1(){
@@ -139,7 +141,22 @@ static void testEx4(){
 }
 
 static void testEx5(){
-    printf("\n Exercise 5: \n");
+
+    Client2* client2 = createClient2("adf", "kdak", 937);
+
+    char* char1= "kjadjkd";
+    char* char2= "hello world";
+    char* char3= "hksdbkjsd";
+
+    char** chars = malloc(sizeof(char*)*4);
+    chars[0]=char1;
+    chars[1]=char2;
+    chars[2]=char3;
+
+    Administrator* administrator1 = createAdministrator("kask", "kask", 928, chars, 60);
+
+    Rental* rental1 = createRental("hello world", 937, "kjdajk", "jsfjk");
+
 }
 
 int main(){
@@ -149,8 +166,7 @@ int main(){
     testEx4();
     testEx5();
 
-    printf("Hello world");
-
+    printf("\n Finalizado");
 }
 
 

@@ -25,5 +25,8 @@ src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Client.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Receptionist.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Reservation.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex4/Room.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex5/Administrator.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex5/Client2.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex5/Rental.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/main.c
 
