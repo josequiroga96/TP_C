@@ -7,8 +7,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Camera.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o"
-  "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Provider.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o"
+  "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o"
   "/Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.c" "/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2/CMakeFiles/ex2.dir/Sale.c.o"
   )

@@ -9,5 +9,11 @@ src/CMakeFiles/exe.dir/main.c.o: ../src/Ex1/LineTicket.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex1/Manufacturer.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex1/Provider.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex1/Ticket.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Accessory.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Camera.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/LineSale.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Manufacturer2.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Provider2.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Sale.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/main.c
 

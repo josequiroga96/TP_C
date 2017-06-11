@@ -17,6 +17,6 @@ Manufacturer2* createManufacturer2(char* name, int code);
 Camera* makeCamera(char* name, int code, int megaPixels, int screenSize, int opticalZoom, int type, int price);
 Accessory* makeAccessory(char* name, int code, int type, char* comment, int price);
 
-void freeAccessory(Accessory* accessory);
+void freeManufacturer2(Manufacturer2* manufacturer);
 
 #endif //TP_C_MANUFACTURER_H

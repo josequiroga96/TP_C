@@ -19,7 +19,7 @@ Accessory* makeAccessory(char* name, int code, int type, char* comment, int pric
     return createAccessory(name, code, type, comment, price);
 }
 
-void freeManufacturer(Manufacturer2* manufacturer){
+void freeManufacturer2(Manufacturer2* manufacturer){
     free(manufacturer->name);
     free(manufacturer);
 }

@@ -368,16 +368,16 @@
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h">
 			<Option target="ex2"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c">
 			<Option target="ex2"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.h">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h">
 			<Option target="ex2"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c">
 			<Option target="ex2"/>
 		</Unit>
-		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.h">
+		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h">
 			<Option target="ex2"/>
 		</Unit>
 		<Unit filename="/Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.c">

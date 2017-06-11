@@ -12,16 +12,16 @@ src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.c
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
- /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c
- /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.h
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
- /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c
- /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
 src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h

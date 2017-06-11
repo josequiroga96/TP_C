@@ -206,59 +206,59 @@ LineSale.c.s:
 	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/LineSale.c.s
 .PHONY : LineSale.c.s
 
-Manufacturer.o: Manufacturer.c.o
+Manufacturer2.o: Manufacturer2.c.o
 
-.PHONY : Manufacturer.o
-
-# target to build an object file
-Manufacturer.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o
-.PHONY : Manufacturer.c.o
-
-Manufacturer.i: Manufacturer.c.i
-
-.PHONY : Manufacturer.i
-
-# target to preprocess a source file
-Manufacturer.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.i
-.PHONY : Manufacturer.c.i
-
-Manufacturer.s: Manufacturer.c.s
-
-.PHONY : Manufacturer.s
-
-# target to generate assembly for a file
-Manufacturer.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.s
-.PHONY : Manufacturer.c.s
-
-Provider.o: Provider.c.o
-
-.PHONY : Provider.o
+.PHONY : Manufacturer2.o
 
 # target to build an object file
-Provider.c.o:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider.c.o
-.PHONY : Provider.c.o
+Manufacturer2.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o
+.PHONY : Manufacturer2.c.o
 
-Provider.i: Provider.c.i
+Manufacturer2.i: Manufacturer2.c.i
 
-.PHONY : Provider.i
+.PHONY : Manufacturer2.i
 
 # target to preprocess a source file
-Provider.c.i:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider.c.i
-.PHONY : Provider.c.i
+Manufacturer2.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.i
+.PHONY : Manufacturer2.c.i
 
-Provider.s: Provider.c.s
+Manufacturer2.s: Manufacturer2.c.s
 
-.PHONY : Provider.s
+.PHONY : Manufacturer2.s
 
 # target to generate assembly for a file
-Provider.c.s:
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider.c.s
-.PHONY : Provider.c.s
+Manufacturer2.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.s
+.PHONY : Manufacturer2.c.s
+
+Provider2.o: Provider2.c.o
+
+.PHONY : Provider2.o
+
+# target to build an object file
+Provider2.c.o:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o
+.PHONY : Provider2.c.o
+
+Provider2.i: Provider2.c.i
+
+.PHONY : Provider2.i
+
+# target to preprocess a source file
+Provider2.c.i:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider2.c.i
+.PHONY : Provider2.c.i
+
+Provider2.s: Provider2.c.s
+
+.PHONY : Provider2.s
+
+# target to generate assembly for a file
+Provider2.c.s:
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug && $(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider2.c.s
+.PHONY : Provider2.c.s
 
 RegisteredUser.o: RegisteredUser.c.o
 
@@ -332,12 +332,12 @@ help:
 	@echo "... LineSale.o"
 	@echo "... LineSale.i"
 	@echo "... LineSale.s"
-	@echo "... Manufacturer.o"
-	@echo "... Manufacturer.i"
-	@echo "... Manufacturer.s"
-	@echo "... Provider.o"
-	@echo "... Provider.i"
-	@echo "... Provider.s"
+	@echo "... Manufacturer2.o"
+	@echo "... Manufacturer2.i"
+	@echo "... Manufacturer2.s"
+	@echo "... Provider2.o"
+	@echo "... Provider2.i"
+	@echo "... Provider2.s"
 	@echo "... RegisteredUser.o"
 	@echo "... RegisteredUser.i"
 	@echo "... RegisteredUser.s"

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ex2.dir/Camera.c.o"
   "CMakeFiles/ex2.dir/Accessory.c.o"
-  "CMakeFiles/ex2.dir/Manufacturer.c.o"
-  "CMakeFiles/ex2.dir/Provider.c.o"
+  "CMakeFiles/ex2.dir/Manufacturer2.c.o"
+  "CMakeFiles/ex2.dir/Provider2.c.o"
   "CMakeFiles/ex2.dir/Sale.c.o"
   "CMakeFiles/ex2.dir/LineSale.c.o"
   "CMakeFiles/ex2.dir/RegisteredUser.c.o"

@@ -10,4 +10,10 @@ src/CMakeFiles/exe.dir/main.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.h
  /Users/JoseRojas/Desktop/TP_C/src/main.c

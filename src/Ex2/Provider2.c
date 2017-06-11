@@ -1,9 +1,9 @@
 
 #include <stdlib.h>
-#include "Provider.h"
+#include "Provider2.h"
 
-Provider* createProvider(char* name, char* responsible, char* address, char* city, char* country, int zipCode, int phoneNumber, int fax){
-    Provider* result = malloc(sizeof(Provider));
+Provider2* createProvider2(char* name, char* responsible, char* address, char* city, char* country, int zipCode, int phoneNumber, int fax){
+    Provider2* result = malloc(sizeof(Provider2));
 
     result->name=name;
     result->responsible=responsible;
@@ -17,7 +17,7 @@ Provider* createProvider(char* name, char* responsible, char* address, char* cit
     return result;
 }
 
-Camera** provideCamera(Provider* provider, int quantity, char* name, int code, int megaPixels, int screenSize, int opticalZoom, int type, int price){
+Camera** provideCamera(Provider2* provider, int quantity, char* name, int code, int megaPixels, int screenSize, int opticalZoom, int type, int price){
     Camera** result= malloc(sizeof(Camera*)*quantity);
 
     for(int i=0; i<quantity;i++){
@@ -26,7 +26,7 @@ Camera** provideCamera(Provider* provider, int quantity, char* name, int code, i
 
     return result;
 }
-Accessory** provideAccesory(Provider* provider, int quantity, char* name, int code, int type, char* comment, int price){
+Accessory** provideAccesory(Provider2* provider, int quantity, char* name, int code, int type, char* comment, int price){
     Accessory** result= malloc(sizeof(Accessory*)*quantity);
 
     for(int i=0; i<quantity;i++){
@@ -36,7 +36,7 @@ Accessory** provideAccesory(Provider* provider, int quantity, char* name, int co
     return result;
 }
 
-void freeProvider(Provider* provider){
+void freeProvider2(Provider2* provider){
     free(provider->name);
     free(provider->responsible);
     free(provider->address);

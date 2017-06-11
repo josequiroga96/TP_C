@@ -40,6 +40,32 @@ Manufacturer.h
 LineTicket.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/LineTicket.h
 
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h
+Accessory.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
+Camera.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
+Camera.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
+Accessory.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
+Camera.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
+Accessory.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.h
+LineSale.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h
+
 /Users/JoseRojas/Desktop/TP_C/src/main.c
 stdio.h
 /Users/JoseRojas/Desktop/TP_C/src/stdio.h
@@ -53,4 +79,12 @@ Ex1/LineCart.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.h
 Ex1/Cart.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/Cart.h
+Ex2/Manufacturer2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
+Ex2/Provider2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
+Ex2/LineSale.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h
+Ex2/Sale.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.h
 

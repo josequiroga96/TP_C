@@ -105,52 +105,52 @@ src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o.provides: src/Ex2/CMakeFiles/ex2.dir/Ac
 src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o.provides.build: src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o
 
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o: src/Ex2/CMakeFiles/ex2.dir/flags.make
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o: ../src/Ex2/Manufacturer.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex2.dir/Manufacturer.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o: src/Ex2/CMakeFiles/ex2.dir/flags.make
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o: ../src/Ex2/Manufacturer2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex2.dir/Manufacturer2.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex2.dir/Manufacturer.c.i"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c > CMakeFiles/ex2.dir/Manufacturer.c.i
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex2.dir/Manufacturer2.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c > CMakeFiles/ex2.dir/Manufacturer2.c.i
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex2.dir/Manufacturer.c.s"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c -o CMakeFiles/ex2.dir/Manufacturer.c.s
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex2.dir/Manufacturer2.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c -o CMakeFiles/ex2.dir/Manufacturer2.c.s
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.requires:
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.requires:
 
-.PHONY : src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.requires
+.PHONY : src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.requires
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.provides: src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.requires
-	$(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.provides.build
-.PHONY : src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.provides
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.provides: src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.provides
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.provides.build: src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.provides.build: src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o
 
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o: src/Ex2/CMakeFiles/ex2.dir/flags.make
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o: ../src/Ex2/Provider.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/Ex2/CMakeFiles/ex2.dir/Provider.c.o"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex2.dir/Provider.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o: src/Ex2/CMakeFiles/ex2.dir/flags.make
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o: ../src/Ex2/Provider2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/JoseRojas/Desktop/TP_C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex2.dir/Provider2.c.o   -c /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex2.dir/Provider.c.i"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c > CMakeFiles/ex2.dir/Provider.c.i
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex2.dir/Provider2.c.i"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c > CMakeFiles/ex2.dir/Provider2.c.i
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex2.dir/Provider.c.s"
-	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c -o CMakeFiles/ex2.dir/Provider.c.s
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex2.dir/Provider2.c.s"
+	cd /Users/JoseRojas/Desktop/TP_C/cmake-build-debug/src/Ex2 && /Library/Developer/CommandLineTools/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c -o CMakeFiles/ex2.dir/Provider2.c.s
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.requires:
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.requires:
 
-.PHONY : src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.requires
+.PHONY : src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.requires
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.provides: src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.requires
-	$(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.provides.build
-.PHONY : src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.provides
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.provides: src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.requires
+	$(MAKE) -f src/Ex2/CMakeFiles/ex2.dir/build.make src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.provides.build
+.PHONY : src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.provides
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.provides.build: src/Ex2/CMakeFiles/ex2.dir/Provider.c.o
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.provides.build: src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o
 
 
 src/Ex2/CMakeFiles/ex2.dir/Sale.c.o: src/Ex2/CMakeFiles/ex2.dir/flags.make
@@ -229,8 +229,8 @@ src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o.provides.build: src/Ex2/CMakeFiles
 ex2_OBJECTS = \
 "CMakeFiles/ex2.dir/Camera.c.o" \
 "CMakeFiles/ex2.dir/Accessory.c.o" \
-"CMakeFiles/ex2.dir/Manufacturer.c.o" \
-"CMakeFiles/ex2.dir/Provider.c.o" \
+"CMakeFiles/ex2.dir/Manufacturer2.c.o" \
+"CMakeFiles/ex2.dir/Provider2.c.o" \
 "CMakeFiles/ex2.dir/Sale.c.o" \
 "CMakeFiles/ex2.dir/LineSale.c.o" \
 "CMakeFiles/ex2.dir/RegisteredUser.c.o"
@@ -240,8 +240,8 @@ ex2_EXTERNAL_OBJECTS =
 
 src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Camera.c.o
 src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o
-src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o
-src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Provider.c.o
+src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o
+src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o
 src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/Sale.c.o
 src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o
 src/Ex2/libex2.a: src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o
@@ -258,8 +258,8 @@ src/Ex2/CMakeFiles/ex2.dir/build: src/Ex2/libex2.a
 
 src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Camera.c.o.requires
 src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o.requires
-src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o.requires
-src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Provider.c.o.requires
+src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o.requires
+src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o.requires
 src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/Sale.c.o.requires
 src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o.requires
 src/Ex2/CMakeFiles/ex2.dir/requires: src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o.requires

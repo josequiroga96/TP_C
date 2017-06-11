@@ -12,15 +12,15 @@ src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o: ../src/Ex2/Camera.h
 src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o: ../src/Ex2/LineSale.c
 src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o: ../src/Ex2/LineSale.h
 
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o: ../src/Ex2/Accessory.h
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o: ../src/Ex2/Camera.h
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o: ../src/Ex2/Manufacturer.c
-src/Ex2/CMakeFiles/ex2.dir/Manufacturer.c.o: ../src/Ex2/Manufacturer.h
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o: ../src/Ex2/Accessory.h
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o: ../src/Ex2/Camera.h
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o: ../src/Ex2/Manufacturer2.c
+src/Ex2/CMakeFiles/ex2.dir/Manufacturer2.c.o: ../src/Ex2/Manufacturer2.h
 
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o: ../src/Ex2/Accessory.h
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o: ../src/Ex2/Camera.h
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o: ../src/Ex2/Provider.c
-src/Ex2/CMakeFiles/ex2.dir/Provider.c.o: ../src/Ex2/Provider.h
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o: ../src/Ex2/Accessory.h
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o: ../src/Ex2/Camera.h
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o: ../src/Ex2/Provider2.c
+src/Ex2/CMakeFiles/ex2.dir/Provider2.c.o: ../src/Ex2/Provider2.h
 
 src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o: ../src/Ex2/Accessory.h
 src/Ex2/CMakeFiles/ex2.dir/RegisteredUser.c.o: ../src/Ex2/Camera.h

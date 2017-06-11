@@ -34,25 +34,25 @@ Accessory.h
 Camera.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.c
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.c
 stdlib.h
 -
-Manufacturer.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.h
+Manufacturer2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
 Camera.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
 Accessory.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex2/Accessory.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.c
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.c
 stdlib.h
 -
-Provider.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.h
+Provider2.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
 Camera.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex2/Camera.h
 Accessory.h
