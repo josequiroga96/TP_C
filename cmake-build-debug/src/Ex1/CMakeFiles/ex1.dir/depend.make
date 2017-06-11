@@ -12,12 +12,6 @@ src/Ex1/CMakeFiles/ex1.dir/Catalogue.c.o: ../src/Ex1/Catalogue.c
 src/Ex1/CMakeFiles/ex1.dir/Catalogue.c.o: ../src/Ex1/Catalogue.h
 src/Ex1/CMakeFiles/ex1.dir/Catalogue.c.o: ../src/Ex1/HouseholdAppliance.h
 
-src/Ex1/CMakeFiles/ex1.dir/EJ1Test.c.o: ../src/Ex1/Catalogue.h
-src/Ex1/CMakeFiles/ex1.dir/EJ1Test.c.o: ../src/Ex1/EJ1Test.c
-src/Ex1/CMakeFiles/ex1.dir/EJ1Test.c.o: ../src/Ex1/HouseholdAppliance.h
-src/Ex1/CMakeFiles/ex1.dir/EJ1Test.c.o: ../src/Ex1/Manufacturer.h
-src/Ex1/CMakeFiles/ex1.dir/EJ1Test.c.o: ../src/Ex1/Provider.h
-
 src/Ex1/CMakeFiles/ex1.dir/HouseholdAppliance.c.o: ../src/Ex1/HouseholdAppliance.c
 src/Ex1/CMakeFiles/ex1.dir/HouseholdAppliance.c.o: ../src/Ex1/HouseholdAppliance.h
 

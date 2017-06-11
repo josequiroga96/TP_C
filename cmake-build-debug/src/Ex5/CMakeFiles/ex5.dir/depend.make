@@ -11,8 +11,6 @@ src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Client.c
 src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Client.h
 src/Ex5/CMakeFiles/ex5.dir/Client.c.o: ../src/Ex5/Rental.h
 
-src/Ex5/CMakeFiles/ex5.dir/EJ5Test.c.o: ../src/Ex5/EJ5Test.c
-
 src/Ex5/CMakeFiles/ex5.dir/Rental.c.o: ../src/Ex5/Rental.c
 src/Ex5/CMakeFiles/ex5.dir/Rental.c.o: ../src/Ex5/Rental.h
 

@@ -28,16 +28,6 @@ Catalogue.h
 HouseholdAppliance.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
 
-/Users/JoseRojas/Desktop/TP_C/src/Ex1/EJ1Test.c
-stdio.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex1/stdio.h
-Manufacturer.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
-Provider.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.h
-Catalogue.h
-/Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.h
-
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.c
 stdlib.h
 -

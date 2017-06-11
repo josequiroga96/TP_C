@@ -22,8 +22,8 @@ struct provider{
 
 Provider* createProvider(char* name, char* description, char* address, char* city, char* web, int phoneNumber, int capacity);
 
-int addProduct(Provider* provider, HouseholdAppliance* hA);
-void removeProduct(Provider* provider, char* name, char* model);
+int add__Product(Provider* provider, HouseholdAppliance* hA);
+void remove__Product(Provider* provider, char* name, char* model);
 
 HouseholdAppliance** provideHouseholdApplience(Provider* provider, char* name, char* model, int quantity, Manufacturer* manufacturer);
 

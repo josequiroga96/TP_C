@@ -11,8 +11,6 @@ src/Ex4/CMakeFiles/ex4.dir/Client.c.o: ../src/Ex4/Receptionist.h
 src/Ex4/CMakeFiles/ex4.dir/Client.c.o: ../src/Ex4/Reservation.h
 src/Ex4/CMakeFiles/ex4.dir/Client.c.o: ../src/Ex4/Room.h
 
-src/Ex4/CMakeFiles/ex4.dir/EJ4Test.c.o: ../src/Ex4/EJ4Test.c
-
 src/Ex4/CMakeFiles/ex4.dir/Receptionist.c.o: ../src/Ex4/Bill.h
 src/Ex4/CMakeFiles/ex4.dir/Receptionist.c.o: ../src/Ex4/Client.h
 src/Ex4/CMakeFiles/ex4.dir/Receptionist.c.o: ../src/Ex4/Receptionist.c

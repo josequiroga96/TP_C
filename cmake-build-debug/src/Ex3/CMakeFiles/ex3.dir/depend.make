@@ -4,8 +4,6 @@
 src/Ex3/CMakeFiles/ex3.dir/Borrowing.c.o: ../src/Ex3/Borrowing.c
 src/Ex3/CMakeFiles/ex3.dir/Borrowing.c.o: ../src/Ex3/Borrowing.h
 
-src/Ex3/CMakeFiles/ex3.dir/EJ3Test.c.o: ../src/Ex3/EJ3Test.c
-
 src/Ex3/CMakeFiles/ex3.dir/Library.c.o: ../src/Ex3/Borrowing.h
 src/Ex3/CMakeFiles/ex3.dir/Library.c.o: ../src/Ex3/Library.c
 src/Ex3/CMakeFiles/ex3.dir/Library.c.o: ../src/Ex3/Library.h

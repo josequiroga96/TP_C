@@ -7,8 +7,6 @@ src/Ex2/CMakeFiles/ex2.dir/Accessory.c.o: ../src/Ex2/Accessory.h
 src/Ex2/CMakeFiles/ex2.dir/Camera.c.o: ../src/Ex2/Camera.c
 src/Ex2/CMakeFiles/ex2.dir/Camera.c.o: ../src/Ex2/Camera.h
 
-src/Ex2/CMakeFiles/ex2.dir/EJ2Test.c.o: ../src/Ex2/EJ2Test.c
-
 src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o: ../src/Ex2/Accessory.h
 src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o: ../src/Ex2/Camera.h
 src/Ex2/CMakeFiles/ex2.dir/LineSale.c.o: ../src/Ex2/LineSale.c

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "Cart.h"
 
-Cart* createCart(int id, int lineCartCapacity, int lineCartAmount){
+Cart* createCart(int id, int lineCartCapacity){
     Cart* result = malloc(sizeof(Cart));
 
     result->id=id;

@@ -15,7 +15,7 @@ struct cart{
     int lineCartAmount;
 };
 
-Cart* createCart(int id, int lineCartCapacity, int lineCartAmount);
+Cart* createCart(int id, int lineCartCapacity);
 
 void addProduct(Cart* cart, LineCart* lineCart);
 void removeProduct(Cart* cart, HouseholdAppliance* householdAppliance, int quantity);

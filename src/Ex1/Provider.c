@@ -27,7 +27,7 @@ static void growProduct(Provider* provider){
     provider->hAListCapacity=capacity;
 }
 
-int addProduct(Provider* provider, HouseholdAppliance* hA){
+int add__Product(Provider* provider, HouseholdAppliance* hA){
     if(provider->hAListCapacity==provider->hAListAmount)
         growProduct(provider);
     provider->hAList[provider->hAListAmount]=hA;
@@ -35,7 +35,7 @@ int addProduct(Provider* provider, HouseholdAppliance* hA){
     return 1;
 }
 
-void removeProduct(Provider* provider, char* name, char* model){
+void remove__Product(Provider* provider, char* name, char* model){
     for(int i = 0; i < provider->hAListAmount; i++){
         if((provider->hAList[i]->name == name) && (provider->hAList[i]->model == model) ){
             freeHouseholdAppliance(provider->hAList[i]);

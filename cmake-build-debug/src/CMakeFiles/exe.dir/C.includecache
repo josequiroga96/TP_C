@@ -6,10 +6,24 @@
 
 #IncludeRegexTransform: 
 
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Cart.h
+LineCart.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.h
+Ticket.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.h
+
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.h
 HouseholdAppliance.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
 
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.h
+HouseholdAppliance.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
+
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineTicket.h
+HouseholdAppliance.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/HouseholdAppliance.h
 
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
@@ -22,11 +36,21 @@ HouseholdAppliance.h
 Manufacturer.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
 
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Ticket.h
+LineTicket.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineTicket.h
+
 /Users/JoseRojas/Desktop/TP_C/src/main.c
 stdio.h
 /Users/JoseRojas/Desktop/TP_C/src/stdio.h
+Ex1/Manufacturer.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Manufacturer.h
 Ex1/Provider.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/Provider.h
 Ex1/Catalogue.h
 /Users/JoseRojas/Desktop/TP_C/src/Ex1/Catalogue.h
+Ex1/LineCart.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/LineCart.h
+Ex1/Cart.h
+/Users/JoseRojas/Desktop/TP_C/src/Ex1/Cart.h
 
