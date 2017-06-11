@@ -14,6 +14,11 @@ src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Camera.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/LineSale.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Manufacturer2.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Provider2.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/RegisteredUser.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/Ex2/Sale.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Borrowing.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Library.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Material.h
+src/CMakeFiles/exe.dir/main.c.o: ../src/Ex3/Person.h
 src/CMakeFiles/exe.dir/main.c.o: ../src/main.c
 

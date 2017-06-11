@@ -31,11 +31,12 @@ Person* createTeacher(char* firstName, char* lastName, char* email, int phoneNum
     return result;
 }
 
-void makeBorrowing(Person* person, Library* library, char* materialType, int code, char* borrowingDate, char* returnDate){
+static Borrowing* makeBorrowing(Person* person, Library* library, char* materialType, int code, char* borrowingDate, char* returnDate){
     person->borrowing = make_Borrowing(library, person, materialType, code, borrowingDate, returnDate);
+    return person->borrowing;
 }
 
-void returnBorrowing(Library* library, Borrowing* borrowing){
+static void returnBorrowing(Library* library, Borrowing* borrowing){
     acceptReturn(library, borrowing);
 }
 

@@ -15,5 +15,10 @@ src/CMakeFiles/exe.dir/main.c.o
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/LineSale.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Manufacturer2.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Provider2.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex2/RegisteredUser.h
  /Users/JoseRojas/Desktop/TP_C/src/Ex2/Sale.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex3/Borrowing.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex3/Library.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex3/Material.h
+ /Users/JoseRojas/Desktop/TP_C/src/Ex3/Person.h
  /Users/JoseRojas/Desktop/TP_C/src/main.c

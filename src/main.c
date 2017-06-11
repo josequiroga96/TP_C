@@ -9,6 +9,9 @@
 #include "Ex2/Provider2.h"
 #include "Ex2/LineSale.h"
 #include "Ex2/Sale.h"
+#include "Ex2/RegisteredUser.h"
+#include "Ex3/Material.h"
+#include "Ex3/Library.h"
 
 
 static void testEx1(){
@@ -71,13 +74,44 @@ static void testEx2(){
 
     addAccessory(sale1, accessory1, lineSale1->quantity);
     addCamera(sale1, camera1, lineSale2->quantity);
+
+    RegisteredUser* registeredUser1 = createRegisteredUser("hjsdhj", 453, "hsfs", 8928924, "hsjbhd", "ifhs", "hdbhd", 7823, 1);
+
+    buyProducts(registeredUser1, sale1);
+
+    printf("El precio del accesorio es: ");
+    printf("%i \n \n", registeredUser1->sales[0]->lineSale[0]->accessory->price);
 }
 
-static void testEx3(){}
+static void testEx3(){
+    printf("\n Exercise 3: \n");
 
-static void testEx4(){}
+    Material* material1 = createBook(232, "asdas", "nkds", 98, "dj", "jdj");
+    Material* material2 = createMagazine(9, "jdjd", "jds", 83, "jsj", "si");
 
-static void testEx5(){}
+    Person* person1 = createStudent("sdf", "adf", "jdjd", 984,94924);
+    Person* person2 = createTeacher("sds", "idid", "kxk", 8484, 828282);
+
+    Library* library1 = createLibrary(84, 23);
+
+    addPerson(library1, person1);
+    addPerson(library1, person2);
+
+    addMaterial(library1, material1);
+    addMaterial(library1, material2);
+
+    Borrowing* borrowing1 = make_Borrowing(library1, person1, 0, material1->code, "hjh", "jdjd");
+
+    printf("\n");
+}
+
+static void testEx4(){
+    printf("\n Exercise 4: \n");
+}
+
+static void testEx5(){
+    printf("\n Exercise 5: \n");
+}
 
 int main(){
     testEx1();
